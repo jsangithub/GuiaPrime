@@ -1,0 +1,3217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal A&amp;E (Argentina)">
+    <display-name lang="es">A&amp;E *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Atreseries (Internacional)">
+    <display-name lang="es">A3 SERIES *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AMC (Argentina)">
+    <display-name lang="es">AMC *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Antena 3">
+    <display-name lang="es">ANTENA 3 *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AXN (Argentina)">
+    <display-name lang="es">AXN *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinecanal (Mexico)">
+    <display-name lang="es">CINECANAL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (Colombia)">
+    <display-name lang="es">CINEMAX *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Comedy Central (Colombia)">
+    <display-name lang="es">COMEDY CENTRAL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Distrito Comedia">
+    <display-name lang="es">DISTRITO COMEDIA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal De Película">
+    <display-name lang="es">DEPELICULA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal De Película Plus">
+    <display-name lang="es">DEPELICULA PLUS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal DW (Latinoamérica)">
+    <display-name lang="es">DW *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Europa Europa">
+    <display-name lang="es">EUROPA EUROPA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Film &amp; Arts">
+    <display-name lang="es">FILM ARTS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Channel Mexico">
+    <display-name lang="es">STAR CHANNEL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Life Mexico">
+    <display-name lang="es">STAR LIFE *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Action Este">
+    <display-name lang="es">STAR ACTION *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Cinema">
+    <display-name lang="es">STAR CINEMA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Classics">
+    <display-name lang="es">STAR CLASSICS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Comedy">
+    <display-name lang="es">STAR COMEDY *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Fun Oeste">
+    <display-name lang="es">STAR FUN *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Hits">
+    <display-name lang="es">STAR HITS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Series Este">
+    <display-name lang="es">STAR SERIES *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal FX (Colombia)">
+    <display-name lang="es">FX *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal FXM (Colombia)">
+    <display-name lang="es">FXM *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden (Argentina)">
+    <display-name lang="es">GOLDEN *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="GOLDEN EDGE *FHD">
+    <display-name lang="es">GOLDEN EDGE *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Plus">
+    <display-name lang="es">GOLDEN PLUS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Premier">
+    <display-name lang="es">GOLDE PREMIER *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Premier 2">
+    <display-name lang="es">GOLDEN PREMIER 2 *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="AR - HBO">
+    <display-name lang="es">HBO *FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="Canal I.Sat">
+    <display-name lang="es">ISAT *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Multimedios Plus">
+    <display-name lang="es">MULTIMEDIOS PLUS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Paramount Channel (México)">
+    <display-name lang="es">PARAMOUNT CHANNEL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Sony (Mexico)">
+    <display-name lang="es">SONY *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Space (México)">
+    <display-name lang="es">SPACE *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Studio Universal (Mexico)">
+    <display-name lang="es">STUDIO UNIVERSAL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal SyFy">
+    <display-name lang="es">SYFY *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TBS veryfunny Latinoamérica">
+    <display-name lang="es">TBS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TCM (Mexico)">
+    <display-name lang="es">TMC *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT">
+    <display-name lang="es">TNT *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Series">
+    <display-name lang="es">TNT SERIES *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV (Argentina)">
+    <display-name lang="es">WARNER CHANNEL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210807013500 -0500" stop="20210807031500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20210807031500 -0500" stop="20210807035100 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20210807035100 -0500" stop="20210807060000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20210807060000 -0500" stop="20210807064300 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20210807064300 -0500" stop="20210807081700 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Allí abajo</title>
+  </programme>
+  <programme start="20210807081700 -0500" stop="20210807095200 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Física o Química</title>
+  </programme>
+  <programme start="20210807095200 -0500" stop="20210807104700 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210807104700 -0500" stop="20210807114900 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">45 Revoluciones</title>
+  </programme>
+  <programme start="20210807114900 -0500" stop="20210807143700 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20210807143700 -0500" stop="20210807172500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210807172500 -0500" stop="20210807190100 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Física o Química</title>
+  </programme>
+  <programme start="20210807190100 -0500" stop="20210807195700 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210807195700 -0500" stop="20210807210000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">45 Revoluciones</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807223300 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Doctor Mateo</title>
+  </programme>
+  <programme start="20210807223300 -0500" stop="20210808000000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Si cierro los ojos ahora</title>
+  </programme>
+  <programme start="20210808000000 -0500" stop="20210808041200 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20210808041200 -0500" stop="20210808054600 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Tiempos de guerra</title>
+  </programme>
+  <programme start="20210808054600 -0500" stop="20210808064200 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210808064200 -0500" stop="20210808074500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">45 Revoluciones</title>
+  </programme>
+  <programme start="20210808074500 -0500" stop="20210808093100 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Física o Química</title>
+  </programme>
+  <programme start="20210808093100 -0500" stop="20210808110200 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">El Barco</title>
+  </programme>
+  <programme start="20210808110200 -0500" stop="20210808115800 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210808115800 -0500" stop="20210808125600 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Benidorm</title>
+  </programme>
+  <programme start="20210808125600 -0500" stop="20210808144600 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20210808144600 -0500" stop="20210808165800 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210808165800 -0500" stop="20210808170000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Física o Química</title>
+  </programme>
+  <programme start="20210808170000 -0500" stop="20210808183200 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20210808183200 -0500" stop="20210808200300 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">El Barco</title>
+  </programme>
+  <programme start="20210808200300 -0500" stop="20210808210000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210808210000 -0500" stop="20210808222100 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Tiempos de guerra</title>
+  </programme>
+  <programme start="20210808222100 -0500" stop="20210809000000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Doctor Mateo</title>
+  </programme>
+  <programme start="20210809000000 -0500" stop="20210809002000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20210809002000 -0500" stop="20210809014400 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Allí abajo</title>
+  </programme>
+  <programme start="20210809014400 -0500" stop="20210809032500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">El Barco</title>
+  </programme>
+  <programme start="20210809032500 -0500" stop="20210809060000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Doctor Mateo</title>
+  </programme>
+  <programme start="20210809060000 -0500" stop="20210809063000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20210809063000 -0500" stop="20210809080000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Tiempos de guerra</title>
+  </programme>
+  <programme start="20210809080000 -0500" stop="20210809093000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Física o Química</title>
+  </programme>
+  <programme start="20210809093000 -0500" stop="20210809104500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20210809104500 -0500" stop="20210809114500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20210809114500 -0500" stop="20210809130000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20210809130000 -0500" stop="20210809141500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Tiempos de guerra</title>
+  </programme>
+  <programme start="20210809141500 -0500" stop="20210809143000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20210809143000 -0500" stop="20210809154500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210809154500 -0500" stop="20210809171500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20210809171500 -0500" stop="20210809184500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Física o Química</title>
+  </programme>
+  <programme start="20210809184500 -0500" stop="20210809194500 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">La Trampa</title>
+  </programme>
+  <programme start="20210809194500 -0500" stop="20210809210000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20210809210000 -0500" stop="20210809223000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">45 Revoluciones</title>
+  </programme>
+  <programme start="20210809223000 -0500" stop="20210810000000 -0500" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20210807010000 -0500" stop="20210807025500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Carrie</title>
+  </programme>
+  <programme start="20210807025500 -0500" stop="20210807044500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">El doble</title>
+  </programme>
+  <programme start="20210807044500 -0500" stop="20210807051000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210807051000 -0500" stop="20210807053500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210807053500 -0500" stop="20210807090000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210807090000 -0500" stop="20210807092500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210807092500 -0500" stop="20210807112000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Pompeii: La Furia Del Volcán</title>
+  </programme>
+  <programme start="20210807112000 -0500" stop="20210807131000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">El doble</title>
+  </programme>
+  <programme start="20210807131000 -0500" stop="20210807150000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Palabras robadas</title>
+  </programme>
+  <programme start="20210807150000 -0500" stop="20210807171000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Kickboxer: Represalias</title>
+  </programme>
+  <programme start="20210807171000 -0500" stop="20210807190000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">El Transportador 3</title>
+  </programme>
+  <programme start="20210807190000 -0500" stop="20210807210000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">El Apocalipsis</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807225000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Legión de Angeles</title>
+  </programme>
+  <programme start="20210807225000 -0500" stop="20210808004500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Carrie</title>
+  </programme>
+  <programme start="20210808004500 -0500" stop="20210808024500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Orgullo + Pejuicio + Zombies</title>
+  </programme>
+  <programme start="20210808024500 -0500" stop="20210808041500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Piraña 3D</title>
+  </programme>
+  <programme start="20210808041500 -0500" stop="20210808090000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Vice</title>
+  </programme>
+  <programme start="20210808090000 -0500" stop="20210808110500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Camino a Estambul</title>
+  </programme>
+  <programme start="20210808110500 -0500" stop="20210808130000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Espejito, espejito</title>
+  </programme>
+  <programme start="20210808130000 -0500" stop="20210808152500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Inframundo</title>
+  </programme>
+  <programme start="20210808152500 -0500" stop="20210808173000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">El Apocalipsis</title>
+  </programme>
+  <programme start="20210808173000 -0500" stop="20210808192500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Orgullo + Pejuicio + Zombies</title>
+  </programme>
+  <programme start="20210808192500 -0500" stop="20210808210000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Resident Evil 2: Apocalipsis</title>
+  </programme>
+  <programme start="20210808210000 -0500" stop="20210808230500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Extinción</title>
+  </programme>
+  <programme start="20210808230500 -0500" stop="20210809000000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Reprisal</title>
+  </programme>
+  <programme start="20210809000000 -0500" stop="20210809015000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Legión de Angeles</title>
+  </programme>
+  <programme start="20210809015000 -0500" stop="20210809035500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Extinción</title>
+  </programme>
+  <programme start="20210809035500 -0500" stop="20210809100000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Camino a Estambul</title>
+  </programme>
+  <programme start="20210809100000 -0500" stop="20210809103000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210809103000 -0500" stop="20210809110000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210809110000 -0500" stop="20210809125500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Vivir Entre Fuegos</title>
+  </programme>
+  <programme start="20210809125500 -0500" stop="20210809132500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210809132500 -0500" stop="20210809151000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Ghost Rider: Espíritu de Venganza</title>
+  </programme>
+  <programme start="20210809151000 -0500" stop="20210809173500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Inframundo</title>
+  </programme>
+  <programme start="20210809173500 -0500" stop="20210809191500 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Resident Evil 2: Apocalipsis</title>
+  </programme>
+  <programme start="20210809191500 -0500" stop="20210809210000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Blitz</title>
+  </programme>
+  <programme start="20210809210000 -0500" stop="20210809215000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Reprisal</title>
+  </programme>
+  <programme start="20210809215000 -0500" stop="20210809225000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210809225000 -0500" stop="20210810004000 -0500" channel="Canal AMC (Argentina)">
+    <title lang="es">Fuego cruzado</title>
+  </programme>
+  <programme start="20210807030000 -0500" stop="20210807060000 -0500" channel="Canal Antena 3">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20210807060000 -0500" stop="20210807070000 -0500" channel="Canal Antena 3">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20210807070000 -0500" stop="20210807080000 -0500" channel="Canal Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20210807080000 -0500" stop="20210807083000 -0500" channel="Canal Antena 3">
+    <title lang="es">¿Qué me pasa Doctor</title>
+  </programme>
+  <programme start="20210807083000 -0500" stop="20210807090000 -0500" channel="Canal Antena 3">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20210807090000 -0500" stop="20210807094500 -0500" channel="Canal Antena 3">
+    <title lang="es">Noticias 1 fin semana</title>
+  </programme>
+  <programme start="20210807094500 -0500" stop="20210807100000 -0500" channel="Canal Antena 3">
+    <title lang="es">Crea lectura</title>
+  </programme>
+  <programme start="20210807100000 -0500" stop="20210807110000 -0500" channel="Canal Antena 3">
+    <title lang="es">El hormiguero</title>
+  </programme>
+  <programme start="20210807110000 -0500" stop="20210807123000 -0500" channel="Canal Antena 3">
+    <title lang="es">Natural</title>
+  </programme>
+  <programme start="20210807123000 -0500" stop="20210807141500 -0500" channel="Canal Antena 3">
+    <title lang="es">El club de la comedia</title>
+  </programme>
+  <programme start="20210807141500 -0500" stop="20210807150000 -0500" channel="Canal Antena 3">
+    <title lang="es">Hoteles con encanto</title>
+  </programme>
+  <programme start="20210807150000 -0500" stop="20210807154500 -0500" channel="Canal Antena 3">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20210807154500 -0500" stop="20210807183000 -0500" channel="Canal Antena 3">
+    <title lang="es">Programa por determinar</title>
+  </programme>
+  <programme start="20210807183000 -0500" stop="20210807203000 -0500" channel="Canal Antena 3">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210807203000 -0500" stop="20210807211500 -0500" channel="Canal Antena 3">
+    <title lang="es">El hormiguero</title>
+  </programme>
+  <programme start="20210807211500 -0500" stop="20210807224500 -0500" channel="Canal Antena 3">
+    <title lang="es">Equipo de investigación</title>
+  </programme>
+  <programme start="20210807224500 -0500" stop="20210808000000 -0500" channel="Canal Antena 3">
+    <title lang="es">Starlite Festival 2021</title>
+  </programme>
+  <programme start="20210808000000 -0500" stop="20210808030000 -0500" channel="Canal Antena 3">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20210808094500 -0500" stop="20210808100000 -0500" channel="Canal Antena 3">
+    <title lang="es">Centímetros cúbicos</title>
+  </programme>
+  <programme start="20210808110000 -0500" stop="20210808113000 -0500" channel="Canal Antena 3">
+    <title lang="es">Random neox</title>
+  </programme>
+  <programme start="20210808113000 -0500" stop="20210808123000 -0500" channel="Canal Antena 3">
+    <title lang="es">Starlite Festival 2021</title>
+  </programme>
+  <programme start="20210808123000 -0500" stop="20210808141500 -0500" channel="Canal Antena 3">
+    <title lang="es">El club de la comedia</title>
+  </programme>
+  <programme start="20210808141500 -0500" stop="20210808150000 -0500" channel="Canal Antena 3">
+    <title lang="es">Hoteles con encanto</title>
+  </programme>
+  <programme start="20210808150000 -0500" stop="20210808154500 -0500" channel="Canal Antena 3">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20210808154500 -0500" stop="20210808170000 -0500" channel="Canal Antena 3">
+    <title lang="es">Pequeñas coincidencias</title>
+  </programme>
+  <programme start="20210808170000 -0500" stop="20210808183000 -0500" channel="Canal Antena 3">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20210808211500 -0500" stop="20210809000000 -0500" channel="Canal Antena 3">
+    <title lang="es">Atrescine La luz prodigiosa</title>
+  </programme>
+  <programme start="20210809000000 -0500" stop="20210809010000 -0500" channel="Canal Antena 3">
+    <title lang="es">El hormiguero</title>
+  </programme>
+  <programme start="20210809010000 -0500" stop="20210809020000 -0500" channel="Canal Antena 3">
+    <title lang="es">Zapeando</title>
+  </programme>
+  <programme start="20210809020000 -0500" stop="20210809024500 -0500" channel="Canal Antena 3">
+    <title lang="es">Noticias directo</title>
+  </programme>
+  <programme start="20210809024500 -0500" stop="20210809044500 -0500" channel="Canal Antena 3">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20210809044500 -0500" stop="20210809064500 -0500" channel="Canal Antena 3">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20210809064500 -0500" stop="20210809070000 -0500" channel="Canal Antena 3">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20210809070000 -0500" stop="20210809080000 -0500" channel="Canal Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20210809080000 -0500" stop="20210809090000 -0500" channel="Canal Antena 3">
+    <title lang="es">El chiringuito internacional</title>
+  </programme>
+  <programme start="20210809090000 -0500" stop="20210809094500 -0500" channel="Canal Antena 3">
+    <title lang="es">Noticias 1</title>
+  </programme>
+  <programme start="20210809094500 -0500" stop="20210809124500 -0500" channel="Canal Antena 3">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20210809124500 -0500" stop="20210809131500 -0500" channel="Canal Antena 3">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20210809131500 -0500" stop="20210809134500 -0500" channel="Canal Antena 3">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20210809134500 -0500" stop="20210809150000 -0500" channel="Canal Antena 3">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210809154500 -0500" stop="20210809163000 -0500" channel="Canal Antena 3">
+    <title lang="es">El hormiguero</title>
+  </programme>
+  <programme start="20210809163000 -0500" stop="20210809173000 -0500" channel="Canal Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+  </programme>
+  <programme start="20210809173000 -0500" stop="20210809183000 -0500" channel="Canal Antena 3">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20210809183000 -0500" stop="20210809193000 -0500" channel="Canal Antena 3">
+    <title lang="es">La ruleta de la suerte</title>
+  </programme>
+  <programme start="20210809193000 -0500" stop="20210809203000 -0500" channel="Canal Antena 3">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20210809211500 -0500" stop="20210809224500 -0500" channel="Canal Antena 3">
+    <title lang="es">Comandancias</title>
+  </programme>
+  <programme start="20210809224500 -0500" stop="20210810000000 -0500" channel="Canal Antena 3">
+    <title lang="es">Pequeñas coincidencias</title>
+  </programme>
+  <programme start="20210807004500 -0500" stop="20210807014000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807014000 -0500" stop="20210807023000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807023000 -0500" stop="20210807032000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210807032000 -0500" stop="20210807041000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210807041000 -0500" stop="20210807050000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210807050000 -0500" stop="20210807060000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210807060000 -0500" stop="20210807070000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210807070000 -0500" stop="20210807073000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210807073000 -0500" stop="20210807080000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210807080000 -0500" stop="20210807083000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210807083000 -0500" stop="20210807090000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210807090000 -0500" stop="20210807100000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210807100000 -0500" stop="20210807105500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210807105500 -0500" stop="20210807115000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210807115000 -0500" stop="20210807124500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210807124500 -0500" stop="20210807134000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210807134000 -0500" stop="20210807143500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807143500 -0500" stop="20210807153000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807153000 -0500" stop="20210807162500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807162500 -0500" stop="20210807172000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807172000 -0500" stop="20210807181500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807181500 -0500" stop="20210807191000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807191000 -0500" stop="20210807200500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807200500 -0500" stop="20210807210000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807231000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Jurassic World: Mundo Jurásico</title>
+  </programme>
+  <programme start="20210807231000 -0500" stop="20210808000000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210808000000 -0500" stop="20210808005000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210808005000 -0500" stop="20210808014000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210808014000 -0500" stop="20210808023000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210808023000 -0500" stop="20210808032000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210808032000 -0500" stop="20210808041000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210808041000 -0500" stop="20210808050000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210808050000 -0500" stop="20210808060000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210808060000 -0500" stop="20210808070000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210808090000 -0500" stop="20210808095500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210808095500 -0500" stop="20210808105000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210808105000 -0500" stop="20210808114000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210808114000 -0500" stop="20210808123000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210808123000 -0500" stop="20210808132000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210808132000 -0500" stop="20210808141000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210808141000 -0500" stop="20210808150000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210808150000 -0500" stop="20210808155000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210808155000 -0500" stop="20210808164000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210808164000 -0500" stop="20210808173000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210808173000 -0500" stop="20210808194000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Jurassic World: Mundo Jurásico</title>
+  </programme>
+  <programme start="20210808194000 -0500" stop="20210808212000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Miedo Profundo</title>
+  </programme>
+  <programme start="20210808212000 -0500" stop="20210808231500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">El Tesoro del Amazonas</title>
+  </programme>
+  <programme start="20210808231500 -0500" stop="20210809001000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210809231500 -0500" stop="20210810001000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210810001000 -0500" stop="20210810010500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210810010500 -0500" stop="20210810020000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210810020000 -0500" stop="20210810030000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210810030000 -0500" stop="20210810040000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210810040000 -0500" stop="20210810050000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210810050000 -0500" stop="20210810060000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210810060000 -0500" stop="20210810070000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210810090000 -0500" stop="20210810095500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210810095500 -0500" stop="20210810105000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Criminología Naval</title>
+  </programme>
+  <programme start="20210810105000 -0500" stop="20210810114000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20210810114000 -0500" stop="20210810123000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20210810123000 -0500" stop="20210810132000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210810132000 -0500" stop="20210810141000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210810141000 -0500" stop="20210810150000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20210810150000 -0500" stop="20210810155000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210810155000 -0500" stop="20210810164000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210810164000 -0500" stop="20210810173000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210810173000 -0500" stop="20210810182000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210810182000 -0500" stop="20210810191500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20210810191500 -0500" stop="20210810201000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210810201000 -0500" stop="20210810210000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20210810210000 -0500" stop="20210810220000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Candice renoir</title>
+  </programme>
+  <programme start="20210810220000 -0500" stop="20210810225500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Harrow</title>
+  </programme>
+  <programme start="20210810225500 -0500" stop="20210810235000 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">Castle</title>
+  </programme>
+  <programme start="20210810235000 -0500" stop="20210811004500 -0500" channel="Canal AXN (Argentina)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20210807004100 -0500" stop="20210807025000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Mama</title>
+  </programme>
+  <programme start="20210807025000 -0500" stop="20210807052000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Jack Reacher: Bajo la Mira</title>
+  </programme>
+  <programme start="20210807052000 -0500" stop="20210807080000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Duplicidad</title>
+  </programme>
+  <programme start="20210807080000 -0500" stop="20210807095000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Babe, el chanchito valiente</title>
+  </programme>
+  <programme start="20210807095000 -0500" stop="20210807120000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Nuestra pequeña Italia</title>
+  </programme>
+  <programme start="20210807120000 -0500" stop="20210807135000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Las Aventuras de Peabody</title>
+  </programme>
+  <programme start="20210807135000 -0500" stop="20210807162000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Miss Peregrine y los niños</title>
+  </programme>
+  <programme start="20210807162000 -0500" stop="20210807184000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Terminator Génesis</title>
+  </programme>
+  <programme start="20210807184000 -0500" stop="20210807205000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">¡Esto es Guerra</title>
+  </programme>
+  <programme start="20210807205000 -0500" stop="20210807230000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Yo, Robot</title>
+  </programme>
+  <programme start="20210807230000 -0500" stop="20210808014000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Kingsman: El Círculo Dorado</title>
+  </programme>
+  <programme start="20210808230000 -0500" stop="20210809014000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Kingsman: El Círculo Dorado</title>
+  </programme>
+  <programme start="20210809014000 -0500" stop="20210809040000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">The Post: Los Oscuros Secretos del Pentágono</title>
+  </programme>
+  <programme start="20210809040000 -0500" stop="20210809060000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Fiesta Navidad en la oficina</title>
+  </programme>
+  <programme start="20210809060000 -0500" stop="20210809081000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Decisión final</title>
+  </programme>
+  <programme start="20210809081000 -0500" stop="20210809100000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Los Tuyos, Los Mios</title>
+  </programme>
+  <programme start="20210809100000 -0500" stop="20210809120000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Fluke Un tiro de suerte</title>
+  </programme>
+  <programme start="20210809120000 -0500" stop="20210809140000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Un Día Muy Especial</title>
+  </programme>
+  <programme start="20210809140000 -0500" stop="20210809154000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Bee Movie, la Historia de una</title>
+  </programme>
+  <programme start="20210809154000 -0500" stop="20210809174000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Votos de amor</title>
+  </programme>
+  <programme start="20210809174000 -0500" stop="20210809193000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Madagascar 3: Los fugitivos</title>
+  </programme>
+  <programme start="20210809193000 -0500" stop="20210809212000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Minions</title>
+  </programme>
+  <programme start="20210809212000 -0500" stop="20210809230000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Vida secreta de tus mascotas</title>
+  </programme>
+  <programme start="20210809230000 -0500" stop="20210810015000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Transformers: El Último Caballero</title>
+  </programme>
+  <programme start="20210810015000 -0500" stop="20210810040000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">De Amor y Otras Adicciones</title>
+  </programme>
+  <programme start="20210810040000 -0500" stop="20210810060000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Mama</title>
+  </programme>
+  <programme start="20210810060000 -0500" stop="20210810080000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Victoria y Abdul</title>
+  </programme>
+  <programme start="20210810080000 -0500" stop="20210810104000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">El bosque de los sueños</title>
+  </programme>
+  <programme start="20210810104000 -0500" stop="20210810123000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Bee Movie, la Historia de una</title>
+  </programme>
+  <programme start="20210810123000 -0500" stop="20210810143000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Jugando con fuego</title>
+  </programme>
+  <programme start="20210810143000 -0500" stop="20210810162000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20210810162000 -0500" stop="20210810185000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Maze Runner: Prueba de fuego</title>
+  </programme>
+  <programme start="20210810185000 -0500" stop="20210810205200 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Yo, Robot</title>
+  </programme>
+  <programme start="20210810205200 -0500" stop="20210810230000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Proyecto Géminis</title>
+  </programme>
+  <programme start="20210810230000 -0500" stop="20210811011000 -0500" channel="Canal Cinecanal (Mexico)">
+    <title lang="es">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20210807023000 -0500" stop="20210807050000 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Bienvenido al mundo</title>
+  </programme>
+  <programme start="20210807050000 -0500" stop="20210807070000 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">La cigüeña no espera</title>
+  </programme>
+  <programme start="20210807070000 -0500" stop="20210807083800 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Mi papá es un gato</title>
+  </programme>
+  <programme start="20210807083800 -0500" stop="20210807101800 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Un hogar ideal</title>
+  </programme>
+  <programme start="20210807101800 -0500" stop="20210807122300 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Tres son multitud</title>
+  </programme>
+  <programme start="20210807122300 -0500" stop="20210807142400 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Rápido y Furioso</title>
+  </programme>
+  <programme start="20210807142400 -0500" stop="20210807155500 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Reyes de las olas</title>
+  </programme>
+  <programme start="20210807155500 -0500" stop="20210807180900 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">In/mortal</title>
+  </programme>
+  <programme start="20210807180900 -0500" stop="20210807200900 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Rápido y Furioso</title>
+  </programme>
+  <programme start="20210807200900 -0500" stop="20210807220000 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Matar o Morir (2018)</title>
+  </programme>
+  <programme start="20210807220000 -0500" stop="20210808002700 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20210808220000 -0500" stop="20210809002700 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Atracción peligrosa</title>
+  </programme>
+  <programme start="20210809002700 -0500" stop="20210809021700 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20210809021700 -0500" stop="20210809044500 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Bienvenido al mundo</title>
+  </programme>
+  <programme start="20210809044500 -0500" stop="20210809070000 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Locuras de verano</title>
+  </programme>
+  <programme start="20210809070000 -0500" stop="20210809082700 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">El Maestro Perfecto</title>
+  </programme>
+  <programme start="20210809082700 -0500" stop="20210809102900 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Admisión</title>
+  </programme>
+  <programme start="20210809102900 -0500" stop="20210809121700 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Juntos… Pero No Tanto</title>
+  </programme>
+  <programme start="20210809121700 -0500" stop="20210809135600 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Espanta tiburones</title>
+  </programme>
+  <programme start="20210809135600 -0500" stop="20210809153900 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Un papá genial</title>
+  </programme>
+  <programme start="20210809153900 -0500" stop="20210809174100 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Admisión</title>
+  </programme>
+  <programme start="20210809174100 -0500" stop="20210809195200 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Ladrona de Identidades</title>
+  </programme>
+  <programme start="20210809195200 -0500" stop="20210809220000 -0500" channel="Canal Cinemax (Colombia)">
+    <title lang="es">Si fueras yo</title>
+  </programme>
+  <programme start="20210807000500 -0500" stop="20210807003000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210807003000 -0500" stop="20210807005500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210807005500 -0500" stop="20210807012000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210807012000 -0500" stop="20210807013000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">El diario de Shantalle</title>
+  </programme>
+  <programme start="20210807013000 -0500" stop="20210807015500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210807015500 -0500" stop="20210807022500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20210807022500 -0500" stop="20210807025500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20210807025500 -0500" stop="20210807032000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210807032000 -0500" stop="20210807034500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210807034500 -0500" stop="20210807041000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210807041000 -0500" stop="20210807043500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210807043500 -0500" stop="20210807050000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210807050000 -0500" stop="20210807053000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210807053000 -0500" stop="20210807060000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210807060000 -0500" stop="20210807063000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210807063000 -0500" stop="20210807070000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210807070000 -0500" stop="20210807072500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20210807072500 -0500" stop="20210807075000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210807075000 -0500" stop="20210807082000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">La Casa de los Dibujos</title>
+  </programme>
+  <programme start="20210807082000 -0500" stop="20210807084500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210807084500 -0500" stop="20210807091000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Ren &amp; Stimpy</title>
+  </programme>
+  <programme start="20210807091000 -0500" stop="20210807094000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210807094000 -0500" stop="20210807100500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210807100500 -0500" stop="20210807103500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20210807103500 -0500" stop="20210807110000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20210807110000 -0500" stop="20210807113000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Todo el mundo odia a Chris</title>
+  </programme>
+  <programme start="20210807113000 -0500" stop="20210807115500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">My wife and kids</title>
+  </programme>
+  <programme start="20210807115500 -0500" stop="20210807124500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807124500 -0500" stop="20210807134000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807134000 -0500" stop="20210807143500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807143500 -0500" stop="20210807153000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807153000 -0500" stop="20210807162000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807162000 -0500" stop="20210807163000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">El diario de Shantalle</title>
+  </programme>
+  <programme start="20210807163000 -0500" stop="20210807172000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807172000 -0500" stop="20210807181500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807181500 -0500" stop="20210807191000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807191000 -0500" stop="20210807200500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807200500 -0500" stop="20210807210000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807212500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210807212500 -0500" stop="20210807213500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">El diario de Shantalle</title>
+  </programme>
+  <programme start="20210807213500 -0500" stop="20210807220000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210807220000 -0500" stop="20210808000000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Cómo ser soltera</title>
+  </programme>
+  <programme start="20210808000000 -0500" stop="20210808011500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">La culpa es de la Malinche</title>
+  </programme>
+  <programme start="20210808011500 -0500" stop="20210808014500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210808014500 -0500" stop="20210808021000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210808021000 -0500" stop="20210808024000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210808024000 -0500" stop="20210808030500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210808030500 -0500" stop="20210808033500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">La Casa de los Dibujos</title>
+  </programme>
+  <programme start="20210808033500 -0500" stop="20210808040000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">La Casa de los Dibujos</title>
+  </programme>
+  <programme start="20210808040000 -0500" stop="20210808043000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210808043000 -0500" stop="20210808050000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210808050000 -0500" stop="20210808053000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210808053000 -0500" stop="20210808060000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210808060000 -0500" stop="20210808063000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210808063000 -0500" stop="20210808070000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210808070000 -0500" stop="20210808072500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20210808072500 -0500" stop="20210808075000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210808075000 -0500" stop="20210808082000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">La Casa de los Dibujos</title>
+  </programme>
+  <programme start="20210808082000 -0500" stop="20210808084500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210808084500 -0500" stop="20210808091000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Ren &amp; Stimpy</title>
+  </programme>
+  <programme start="20210808091000 -0500" stop="20210808094000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210808094000 -0500" stop="20210808100500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210808100500 -0500" stop="20210808105500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210808105500 -0500" stop="20210808114500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210808114500 -0500" stop="20210808124000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210808124000 -0500" stop="20210808133000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210808133000 -0500" stop="20210808134000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">El diario de Shantalle</title>
+  </programme>
+  <programme start="20210808134000 -0500" stop="20210808143000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210808143000 -0500" stop="20210808161000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Kung Fu Panda</title>
+  </programme>
+  <programme start="20210808161000 -0500" stop="20210808164000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210808164000 -0500" stop="20210808170500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210808170500 -0500" stop="20210808173000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210808173000 -0500" stop="20210808180000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210808180000 -0500" stop="20210808182500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210808182500 -0500" stop="20210808183500 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">El diario de Shantalle</title>
+  </programme>
+  <programme start="20210808183500 -0500" stop="20210808190000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210808190000 -0500" stop="20210808210000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Cómo ser soltera</title>
+  </programme>
+  <programme start="20210807011000 -0500" stop="20210807021000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">+ noche</title>
+  </programme>
+  <programme start="20210807021000 -0500" stop="20210807030000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Simón dice</title>
+  </programme>
+  <programme start="20210807030000 -0500" stop="20210807032500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20210807032500 -0500" stop="20210807041500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Humor es los comediantes</title>
+  </programme>
+  <programme start="20210807041500 -0500" stop="20210807052500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">XH Derbez</title>
+  </programme>
+  <programme start="20210807052500 -0500" stop="20210807063500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20210807063500 -0500" stop="20210807073000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Lorenza, bebé a bordo</title>
+  </programme>
+  <programme start="20210807073000 -0500" stop="20210807100000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210807100000 -0500" stop="20210807123000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20210807123000 -0500" stop="20210807150000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210807150000 -0500" stop="20210807173000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20210807173000 -0500" stop="20210807200000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210807200000 -0500" stop="20210807223000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20210807223000 -0500" stop="20210808010000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210808010000 -0500" stop="20210808020000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">5x8 Comedia T.7 El circo</title>
+  </programme>
+  <programme start="20210808020000 -0500" stop="20210808030000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Renta Congelada</title>
+  </programme>
+  <programme start="20210808063500 -0500" stop="20210808073000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Simón dice</title>
+  </programme>
+  <programme start="20210808073000 -0500" stop="20210808100000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210808100000 -0500" stop="20210808123000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210808123000 -0500" stop="20210808150000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210808150000 -0500" stop="20210808173000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210808173000 -0500" stop="20210808200000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20210808200000 -0500" stop="20210808223000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20210808223000 -0500" stop="20210809010500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210809010500 -0500" stop="20210809020000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20210809020000 -0500" stop="20210809025500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Humor es los comediantes</title>
+  </programme>
+  <programme start="20210809025500 -0500" stop="20210809041000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20210809041000 -0500" stop="20210809050500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Cero en conducta</title>
+  </programme>
+  <programme start="20210809050500 -0500" stop="20210809053500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210809053500 -0500" stop="20210809065000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">María de todos los Angeles</title>
+  </programme>
+  <programme start="20210809065000 -0500" stop="20210809074500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Lorenza, bebé a bordo</title>
+  </programme>
+  <programme start="20210809074500 -0500" stop="20210809090500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210809090500 -0500" stop="20210809100000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">XH Derbez</title>
+  </programme>
+  <programme start="20210809100000 -0500" stop="20210809111500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">María de todos los Angeles</title>
+  </programme>
+  <programme start="20210809111500 -0500" stop="20210809123000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210809123000 -0500" stop="20210809133000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">40 y 20 T.5 (inicia)</title>
+  </programme>
+  <programme start="20210809133000 -0500" stop="20210809144500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210809144500 -0500" stop="20210809160000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210809160000 -0500" stop="20210809171500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210809171500 -0500" stop="20210809181500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">40 y 20 T.5 (inicia)</title>
+  </programme>
+  <programme start="20210809181500 -0500" stop="20210809193000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20210809193000 -0500" stop="20210809200000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210809200000 -0500" stop="20210809211500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210809211500 -0500" stop="20210809222500 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210809222500 -0500" stop="20210810000000 -0500" channel="Canal Distrito Comedia">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20210807012300 -0500" stop="20210807032100 -0500" channel="Canal De Película">
+    <title lang="es">La tregua</title>
+  </programme>
+  <programme start="20210807032100 -0500" stop="20210807051000 -0500" channel="Canal De Película">
+    <title lang="es">Manos libres</title>
+  </programme>
+  <programme start="20210807051000 -0500" stop="20210807070400 -0500" channel="Canal De Película">
+    <title lang="es">Nacidos para cantar</title>
+  </programme>
+  <programme start="20210807070400 -0500" stop="20210807083900 -0500" channel="Canal De Película">
+    <title lang="es">La risa en vacaciones</title>
+  </programme>
+  <programme start="20210807083900 -0500" stop="20210807101900 -0500" channel="Canal De Película">
+    <title lang="es">Con el cuerpo prestado</title>
+  </programme>
+  <programme start="20210807101900 -0500" stop="20210807120400 -0500" channel="Canal De Película">
+    <title lang="es">Coqueta</title>
+  </programme>
+  <programme start="20210807120400 -0500" stop="20210807135400 -0500" channel="Canal De Película">
+    <title lang="es">Dios se lo pague</title>
+  </programme>
+  <programme start="20210807135400 -0500" stop="20210807154100 -0500" channel="Canal De Película">
+    <title lang="es">Ya nunca mas</title>
+  </programme>
+  <programme start="20210807154100 -0500" stop="20210807173000 -0500" channel="Canal De Película">
+    <title lang="es">Siempre en domingo</title>
+  </programme>
+  <programme start="20210807173000 -0500" stop="20210807191700 -0500" channel="Canal De Película">
+    <title lang="es">Soy libre</title>
+  </programme>
+  <programme start="20210807191700 -0500" stop="20210807210300 -0500" channel="Canal De Película">
+    <title lang="es">Rigo es amor</title>
+  </programme>
+  <programme start="20210807210300 -0500" stop="20210807231300 -0500" channel="Canal De Película">
+    <title lang="es">Perdóname todo</title>
+  </programme>
+  <programme start="20210807231300 -0500" stop="20210808004700 -0500" channel="Canal De Película">
+    <title lang="es">Emanuelo</title>
+  </programme>
+  <programme start="20210808231300 -0500" stop="20210809004700 -0500" channel="Canal De Película">
+    <title lang="es">Emanuelo</title>
+  </programme>
+  <programme start="20210809004700 -0500" stop="20210809022000 -0500" channel="Canal De Película">
+    <title lang="es">El rey de los taxistas</title>
+  </programme>
+  <programme start="20210809022000 -0500" stop="20210809035500 -0500" channel="Canal De Película">
+    <title lang="es">La gatita</title>
+  </programme>
+  <programme start="20210809035500 -0500" stop="20210809052700 -0500" channel="Canal De Película">
+    <title lang="es">La sombra de los hijos</title>
+  </programme>
+  <programme start="20210809052700 -0500" stop="20210809070000 -0500" channel="Canal De Película">
+    <title lang="es">El charro del misterio</title>
+  </programme>
+  <programme start="20210809070000 -0500" stop="20210809083900 -0500" channel="Canal De Película">
+    <title lang="es">Grandes amigos</title>
+  </programme>
+  <programme start="20210809083900 -0500" stop="20210809101900 -0500" channel="Canal De Película">
+    <title lang="es">Dinamita kid</title>
+  </programme>
+  <programme start="20210809101900 -0500" stop="20210809121600 -0500" channel="Canal De Película">
+    <title lang="es">Valentin de la sierra</title>
+  </programme>
+  <programme start="20210809121600 -0500" stop="20210809140800 -0500" channel="Canal De Película">
+    <title lang="es">Hipócrita</title>
+  </programme>
+  <programme start="20210809140800 -0500" stop="20210809162000 -0500" channel="Canal De Película">
+    <title lang="es">El peñón de las ánimas</title>
+  </programme>
+  <programme start="20210809162000 -0500" stop="20210809181500 -0500" channel="Canal De Película">
+    <title lang="es">El Fugitivo</title>
+  </programme>
+  <programme start="20210809181500 -0500" stop="20210809195600 -0500" channel="Canal De Película">
+    <title lang="es">Una bala es mi testigo</title>
+  </programme>
+  <programme start="20210809195600 -0500" stop="20210809220400 -0500" channel="Canal De Película">
+    <title lang="es">El extra</title>
+  </programme>
+  <programme start="20210809220400 -0500" stop="20210810001400 -0500" channel="Canal De Película">
+    <title lang="es">Entrega inmediata</title>
+  </programme>
+  <programme start="20210810220400 -0500" stop="20210811001400 -0500" channel="Canal De Película">
+    <title lang="es">Entrega inmediata</title>
+  </programme>
+  <programme start="20210807014500 -0500" stop="20210807032300 -0500" channel="Canal De Película Plus">
+    <title lang="es">Presos sin culpas</title>
+  </programme>
+  <programme start="20210807032300 -0500" stop="20210807052100 -0500" channel="Canal De Película Plus">
+    <title lang="es">La tregua</title>
+  </programme>
+  <programme start="20210807052100 -0500" stop="20210807071000 -0500" channel="Canal De Película Plus">
+    <title lang="es">Manos libres</title>
+  </programme>
+  <programme start="20210807071000 -0500" stop="20210807090400 -0500" channel="Canal De Película Plus">
+    <title lang="es">Nacidos para cantar</title>
+  </programme>
+  <programme start="20210807090400 -0500" stop="20210807103900 -0500" channel="Canal De Película Plus">
+    <title lang="es">La risa en vacaciones 1</title>
+  </programme>
+  <programme start="20210807103900 -0500" stop="20210807121900 -0500" channel="Canal De Película Plus">
+    <title lang="es">Con el cuerpo prestado</title>
+  </programme>
+  <programme start="20210807121900 -0500" stop="20210807140400 -0500" channel="Canal De Película Plus">
+    <title lang="es">Coqueta</title>
+  </programme>
+  <programme start="20210807140400 -0500" stop="20210807155400 -0500" channel="Canal De Película Plus">
+    <title lang="es">Dios se lo pague</title>
+  </programme>
+  <programme start="20210807155400 -0500" stop="20210807174100 -0500" channel="Canal De Película Plus">
+    <title lang="es">Ya nunca mas</title>
+  </programme>
+  <programme start="20210807174100 -0500" stop="20210807193000 -0500" channel="Canal De Película Plus">
+    <title lang="es">Siempre en domingo</title>
+  </programme>
+  <programme start="20210807193000 -0500" stop="20210807211700 -0500" channel="Canal De Película Plus">
+    <title lang="es">Soy libre</title>
+  </programme>
+  <programme start="20210807211700 -0500" stop="20210807230300 -0500" channel="Canal De Película Plus">
+    <title lang="es">Rigo es amor</title>
+  </programme>
+  <programme start="20210807230300 -0500" stop="20210808011300 -0500" channel="Canal De Película Plus">
+    <title lang="es">Perdóname todo</title>
+  </programme>
+  <programme start="20210808230300 -0500" stop="20210809011300 -0500" channel="Canal De Película Plus">
+    <title lang="es">Perdóname todo</title>
+  </programme>
+  <programme start="20210809011300 -0500" stop="20210809024700 -0500" channel="Canal De Película Plus">
+    <title lang="es">Emanuelo</title>
+  </programme>
+  <programme start="20210809024700 -0500" stop="20210809042000 -0500" channel="Canal De Película Plus">
+    <title lang="es">El rey de los taxistas</title>
+  </programme>
+  <programme start="20210809042000 -0500" stop="20210809055500 -0500" channel="Canal De Película Plus">
+    <title lang="es">La gatita</title>
+  </programme>
+  <programme start="20210809055500 -0500" stop="20210809072700 -0500" channel="Canal De Película Plus">
+    <title lang="es">La sombra de los hijos</title>
+  </programme>
+  <programme start="20210809072700 -0500" stop="20210809090000 -0500" channel="Canal De Película Plus">
+    <title lang="es">El charro del misterio</title>
+  </programme>
+  <programme start="20210809090000 -0500" stop="20210809103900 -0500" channel="Canal De Película Plus">
+    <title lang="es">Grandes amigos</title>
+  </programme>
+  <programme start="20210809103900 -0500" stop="20210809121900 -0500" channel="Canal De Película Plus">
+    <title lang="es">Dinamita kid</title>
+  </programme>
+  <programme start="20210809121900 -0500" stop="20210809141600 -0500" channel="Canal De Película Plus">
+    <title lang="es">Valentin de la sierra</title>
+  </programme>
+  <programme start="20210809141600 -0500" stop="20210809160800 -0500" channel="Canal De Película Plus">
+    <title lang="es">Hipócrita</title>
+  </programme>
+  <programme start="20210809160800 -0500" stop="20210809182000 -0500" channel="Canal De Película Plus">
+    <title lang="es">El peñón de las ánimas</title>
+  </programme>
+  <programme start="20210809182000 -0500" stop="20210809201500 -0500" channel="Canal De Película Plus">
+    <title lang="es">El Fugitivo</title>
+  </programme>
+  <programme start="20210809201500 -0500" stop="20210809215600 -0500" channel="Canal De Película Plus">
+    <title lang="es">Una bala es mi testigo</title>
+  </programme>
+  <programme start="20210809215600 -0500" stop="20210810000400 -0500" channel="Canal De Película Plus">
+    <title lang="es">El extra</title>
+  </programme>
+  <programme start="20210810215600 -0500" stop="20210811000400 -0500" channel="Canal De Película Plus">
+    <title lang="es">El extra</title>
+  </programme>
+  <programme start="20210807001500 -0500" stop="20210807003000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210807003000 -0500" stop="20210807010000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210807010000 -0500" stop="20210807010300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807010300 -0500" stop="20210807011500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210807011500 -0500" stop="20210807020000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Intrigas, poder y alianzas - La trastienda de la Unión Europea</title>
+  </programme>
+  <programme start="20210807020000 -0500" stop="20210807020300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807020300 -0500" stop="20210807023000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210807023000 -0500" stop="20210807030000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20210807030000 -0500" stop="20210807031500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807031500 -0500" stop="20210807040000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La nueva Ruta de la Seda china - De Yiwu a Madrid</title>
+  </programme>
+  <programme start="20210807040000 -0500" stop="20210807040300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807040300 -0500" stop="20210807043000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20210807043000 -0500" stop="20210807050000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210807050000 -0500" stop="20210807050300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807050300 -0500" stop="20210807053000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210807053000 -0500" stop="20210807060000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210807060000 -0500" stop="20210807061500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807061500 -0500" stop="20210807070000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210807070000 -0500" stop="20210807070300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807070300 -0500" stop="20210807071500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210807071500 -0500" stop="20210807073000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210807073000 -0500" stop="20210807080000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210807080000 -0500" stop="20210807080300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807080300 -0500" stop="20210807081500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210807081500 -0500" stop="20210807083000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210807083000 -0500" stop="20210807090000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210807090000 -0500" stop="20210807091500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807091500 -0500" stop="20210807100000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El amor en el mundo - Las historias de amor más bellas del mundo</title>
+  </programme>
+  <programme start="20210807100000 -0500" stop="20210807100300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807100300 -0500" stop="20210807103000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210807103000 -0500" stop="20210807110000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210807110000 -0500" stop="20210807110300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807110300 -0500" stop="20210807111500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210807111500 -0500" stop="20210807113000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210807113000 -0500" stop="20210807120000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20210807120000 -0500" stop="20210807120300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807120300 -0500" stop="20210807123000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Aquí estoy</title>
+  </programme>
+  <programme start="20210807123000 -0500" stop="20210807130000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210807130000 -0500" stop="20210807130300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807130300 -0500" stop="20210807131500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210807131500 -0500" stop="20210807140000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Intrigas, poder y alianzas - La trastienda de la Unión Europea</title>
+  </programme>
+  <programme start="20210807140000 -0500" stop="20210807141500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807141500 -0500" stop="20210807143000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210807143000 -0500" stop="20210807150000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210807150000 -0500" stop="20210807150300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807150300 -0500" stop="20210807151500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210807151500 -0500" stop="20210807160000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Raíces para salvar el mundo</title>
+  </programme>
+  <programme start="20210807160000 -0500" stop="20210807161500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807161500 -0500" stop="20210807163000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20210807163000 -0500" stop="20210807170000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210807170000 -0500" stop="20210807170300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807170300 -0500" stop="20210807171500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210807171500 -0500" stop="20210807180000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El caso de Otto Warmbier - ¿Qué sucedió realmente en Corea del Norte</title>
+  </programme>
+  <programme start="20210807180000 -0500" stop="20210807181500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807181500 -0500" stop="20210807183000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210807183000 -0500" stop="20210807190000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210807190000 -0500" stop="20210807191500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807191500 -0500" stop="20210807193000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210807193000 -0500" stop="20210807200000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210807200000 -0500" stop="20210807201500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807201500 -0500" stop="20210807203000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210807203000 -0500" stop="20210807210000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807211500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807211500 -0500" stop="20210807213000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210807213000 -0500" stop="20210807220000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210807220000 -0500" stop="20210807220300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807220300 -0500" stop="20210807221500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210807221500 -0500" stop="20210807230000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El caso de Otto Warmbier - ¿Qué sucedió realmente en Corea del Norte</title>
+  </programme>
+  <programme start="20210807230000 -0500" stop="20210807230300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210807230300 -0500" stop="20210807233000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210807233000 -0500" stop="20210808000000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210808003000 -0500" stop="20210808010000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20210808010300 -0500" stop="20210808011500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210808011500 -0500" stop="20210808020000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210808020300 -0500" stop="20210808023000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cuestión de fe</title>
+  </programme>
+  <programme start="20210808023000 -0500" stop="20210808030000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210808030000 -0500" stop="20210808030300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808030300 -0500" stop="20210808031500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210808031500 -0500" stop="20210808040000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El caso de Otto Warmbier - ¿Qué sucedió realmente en Corea del Norte</title>
+  </programme>
+  <programme start="20210808040000 -0500" stop="20210808040300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808040300 -0500" stop="20210808041500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210808041500 -0500" stop="20210808043000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210808043000 -0500" stop="20210808050000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210808050300 -0500" stop="20210808053000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210808053000 -0500" stop="20210808060000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210808060000 -0500" stop="20210808060300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808060300 -0500" stop="20210808061500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210808061500 -0500" stop="20210808070000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Intrigas, poder y alianzas - La trastienda de la Unión Europea</title>
+  </programme>
+  <programme start="20210808070000 -0500" stop="20210808070300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808070300 -0500" stop="20210808071500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210808071500 -0500" stop="20210808073000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210808073000 -0500" stop="20210808080000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210808080000 -0500" stop="20210808080300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808080300 -0500" stop="20210808081500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20210808081500 -0500" stop="20210808083000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210808083000 -0500" stop="20210808090000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cuestión de fe</title>
+  </programme>
+  <programme start="20210808090000 -0500" stop="20210808090300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808090300 -0500" stop="20210808091500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210808091500 -0500" stop="20210808100000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210808100300 -0500" stop="20210808103000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210808103000 -0500" stop="20210808110000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210808110300 -0500" stop="20210808111500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20210808111500 -0500" stop="20210808113000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210808113000 -0500" stop="20210808120000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210808120300 -0500" stop="20210808121500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210808121500 -0500" stop="20210808123000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210808123000 -0500" stop="20210808130000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210808130000 -0500" stop="20210808130300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808130300 -0500" stop="20210808131500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210808131500 -0500" stop="20210808140000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El caso de Otto Warmbier - ¿Qué sucedió realmente en Corea del Norte</title>
+  </programme>
+  <programme start="20210808140000 -0500" stop="20210808141500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808141500 -0500" stop="20210808143000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210808143000 -0500" stop="20210808150000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20210808150000 -0500" stop="20210808150300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808150300 -0500" stop="20210808151500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210808151500 -0500" stop="20210808160000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210808160000 -0500" stop="20210808161500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808161500 -0500" stop="20210808163000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210808163000 -0500" stop="20210808170000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210808170000 -0500" stop="20210808170300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808170300 -0500" stop="20210808171500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210808171500 -0500" stop="20210808180000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cerbatanas contra topadoras - Los últimos nómadas forestales de Borneo</title>
+  </programme>
+  <programme start="20210808180000 -0500" stop="20210808181500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808181500 -0500" stop="20210808183000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210808183000 -0500" stop="20210808190000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cuestión de fe</title>
+  </programme>
+  <programme start="20210808190000 -0500" stop="20210808191500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808191500 -0500" stop="20210808193000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210808193000 -0500" stop="20210808200000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20210808200000 -0500" stop="20210808201500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808201500 -0500" stop="20210808203000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210808203000 -0500" stop="20210808210000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210808210000 -0500" stop="20210808211500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808211500 -0500" stop="20210808213000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210808213000 -0500" stop="20210808220000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20210808220000 -0500" stop="20210808220300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808220300 -0500" stop="20210808221500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La semana: En América Latina</title>
+  </programme>
+  <programme start="20210808221500 -0500" stop="20210808230000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cerbatanas contra topadoras - Los últimos nómadas forestales de Borneo</title>
+  </programme>
+  <programme start="20210808230000 -0500" stop="20210808230300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210808230300 -0500" stop="20210808233000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20210808233000 -0500" stop="20210809000000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210809001500 -0500" stop="20210809003000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210809003000 -0500" stop="20210809010000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cuestión de fe</title>
+  </programme>
+  <programme start="20210809010300 -0500" stop="20210809011500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210809011500 -0500" stop="20210809020000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El caso de Otto Warmbier - ¿Qué sucedió realmente en Corea del Norte</title>
+  </programme>
+  <programme start="20210809020300 -0500" stop="20210809023000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Hecho en Alemania</title>
+  </programme>
+  <programme start="20210809023000 -0500" stop="20210809030000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210809030300 -0500" stop="20210809031500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210809031500 -0500" stop="20210809040000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210809040300 -0500" stop="20210809041500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210809041500 -0500" stop="20210809043000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">La Entrevista: Hechos, Análisis, Perspectivas</title>
+  </programme>
+  <programme start="20210809043000 -0500" stop="20210809050000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Enfoque europa: Países, gentes, destinos</title>
+  </programme>
+  <programme start="20210809050300 -0500" stop="20210809053000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cuestión de fe</title>
+  </programme>
+  <programme start="20210809053000 -0500" stop="20210809060000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210809060300 -0500" stop="20210809061500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210809061500 -0500" stop="20210809070000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El caso de Otto Warmbier - ¿Qué sucedió realmente en Corea del Norte</title>
+  </programme>
+  <programme start="20210809070300 -0500" stop="20210809073000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20210809073000 -0500" stop="20210809080000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210809080300 -0500" stop="20210809083000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Euromaxx</title>
+  </programme>
+  <programme start="20210809083000 -0500" stop="20210809090000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20210809090300 -0500" stop="20210809091500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Reporteros en el Mundo</title>
+  </programme>
+  <programme start="20210809091500 -0500" stop="20210809100000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cerbatanas contra topadoras - Los últimos nómadas forestales de Borneo</title>
+  </programme>
+  <programme start="20210809100300 -0500" stop="20210809103000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20210809103000 -0500" stop="20210809110000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20210809110300 -0500" stop="20210809113000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20210809113000 -0500" stop="20210809120000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Cuestión de fe</title>
+  </programme>
+  <programme start="20210809120000 -0500" stop="20210809120300 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210809120300 -0500" stop="20210809121500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">El reportero: Sobre el terreno</title>
+  </programme>
+  <programme start="20210809121500 -0500" stop="20210809123000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20210809123000 -0500" stop="20210809130000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210809130000 -0500" stop="20210809131500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210809131500 -0500" stop="20210809140000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20210809140000 -0500" stop="20210809143000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210809143000 -0500" stop="20210809150000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Aquí estoy</title>
+  </programme>
+  <programme start="20210809150000 -0500" stop="20210809151500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210809151500 -0500" stop="20210809160000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Intrigas, poder y alianzas - La trastienda de la Unión Europea</title>
+  </programme>
+  <programme start="20210809160000 -0500" stop="20210809163000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210809163000 -0500" stop="20210809170000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20210809170300 -0500" stop="20210809171500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20210809171500 -0500" stop="20210809180000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Objetores de conciencia en Israel - Antes presos que soldados</title>
+  </programme>
+  <programme start="20210809180000 -0500" stop="20210809183000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210809183000 -0500" stop="20210809190000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210809191500 -0500" stop="20210809193000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Economía</title>
+  </programme>
+  <programme start="20210809193000 -0500" stop="20210809200000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20210809200000 -0500" stop="20210809203000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210809203000 -0500" stop="20210809210000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20210809213000 -0500" stop="20210809220000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Primer Plano</title>
+  </programme>
+  <programme start="20210809220000 -0500" stop="20210809221500 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20210809221500 -0500" stop="20210809230000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Objetores de conciencia en Israel - Antes presos que soldados</title>
+  </programme>
+  <programme start="20210809230300 -0500" stop="20210809233000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Todo gol</title>
+  </programme>
+  <programme start="20210809233000 -0500" stop="20210810000000 -0500" channel="Canal DW (Latinoamérica)">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20210807012000 -0500" stop="20210807032500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Montalbano</title>
+  </programme>
+  <programme start="20210807032500 -0500" stop="20210807052000 -0500" channel="Canal Europa Europa">
+    <title lang="es">Los imprevistos del amor</title>
+  </programme>
+  <programme start="20210807052000 -0500" stop="20210807071500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Viktor</title>
+  </programme>
+  <programme start="20210807071500 -0500" stop="20210807090000 -0500" channel="Canal Europa Europa">
+    <title lang="es">El hermano perdido</title>
+  </programme>
+  <programme start="20210807090000 -0500" stop="20210807110000 -0500" channel="Canal Europa Europa">
+    <title lang="es">El último virrey de la India</title>
+  </programme>
+  <programme start="20210807110000 -0500" stop="20210807130500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Los bastardos de Pizzofalcone</title>
+  </programme>
+  <programme start="20210807130500 -0500" stop="20210807150500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Los bastardos de Pizzofalcone</title>
+  </programme>
+  <programme start="20210807150500 -0500" stop="20210807170500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Los bastardos de Pizzofalcone</title>
+  </programme>
+  <programme start="20210807170500 -0500" stop="20210807173500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Shemira</title>
+  </programme>
+  <programme start="20210807173500 -0500" stop="20210807180500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Hechizada</title>
+  </programme>
+  <programme start="20210807180500 -0500" stop="20210807190000 -0500" channel="Canal Europa Europa">
+    <title lang="es">Plataforma 45</title>
+  </programme>
+  <programme start="20210807190000 -0500" stop="20210807200000 -0500" channel="Canal Europa Europa">
+    <title lang="es">The Mallorca Files</title>
+  </programme>
+  <programme start="20210807200000 -0500" stop="20210807210000 -0500" channel="Canal Europa Europa">
+    <title lang="es">Babylon Berlin</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807225500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Jack</title>
+  </programme>
+  <programme start="20210807225500 -0500" stop="20210808005000 -0500" channel="Canal Europa Europa">
+    <title lang="es">Pan del cielo</title>
+  </programme>
+  <programme start="20210808225500 -0500" stop="20210809005000 -0500" channel="Canal Europa Europa">
+    <title lang="es">Pan del cielo</title>
+  </programme>
+  <programme start="20210809005000 -0500" stop="20210809030000 -0500" channel="Canal Europa Europa">
+    <title lang="es">El hombre que vino del mar</title>
+  </programme>
+  <programme start="20210809030000 -0500" stop="20210809050500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Blanca como la leche, roja</title>
+  </programme>
+  <programme start="20210809050500 -0500" stop="20210809070000 -0500" channel="Canal Europa Europa">
+    <title lang="es">Pan del cielo</title>
+  </programme>
+  <programme start="20210809070000 -0500" stop="20210809090500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Montalbano</title>
+  </programme>
+  <programme start="20210809090500 -0500" stop="20210809104500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Enamorado de mi Mujer</title>
+  </programme>
+  <programme start="20210809104500 -0500" stop="20210809124000 -0500" channel="Canal Europa Europa">
+    <title lang="es">Jack</title>
+  </programme>
+  <programme start="20210809124000 -0500" stop="20210809143500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Pan del cielo</title>
+  </programme>
+  <programme start="20210809143500 -0500" stop="20210809164500 -0500" channel="Canal Europa Europa">
+    <title lang="es">El hombre que vino del mar</title>
+  </programme>
+  <programme start="20210809164500 -0500" stop="20210809185500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Montalbano</title>
+  </programme>
+  <programme start="20210809185500 -0500" stop="20210809210000 -0500" channel="Canal Europa Europa">
+    <title lang="es">Montalbano</title>
+  </programme>
+  <programme start="20210809210000 -0500" stop="20210809224500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Seremos jóvenes y bellísimos</title>
+  </programme>
+  <programme start="20210809224500 -0500" stop="20210809234000 -0500" channel="Canal Europa Europa">
+    <title lang="es">The Mallorca Files</title>
+  </programme>
+  <programme start="20210809234000 -0500" stop="20210810014500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Montalbano</title>
+  </programme>
+  <programme start="20210810234000 -0500" stop="20210811014500 -0500" channel="Canal Europa Europa">
+    <title lang="es">Montalbano</title>
+  </programme>
+  <programme start="20210807011500 -0500" stop="20210807021500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Kieler Street</title>
+  </programme>
+  <programme start="20210807021500 -0500" stop="20210807031000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Kieler Street</title>
+  </programme>
+  <programme start="20210807031000 -0500" stop="20210807041000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graham Norton Show</title>
+  </programme>
+  <programme start="20210807041000 -0500" stop="20210807044000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Secretos de las Grandes Pintu</title>
+  </programme>
+  <programme start="20210807044000 -0500" stop="20210807070000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Nada Es Para Siempre</title>
+  </programme>
+  <programme start="20210807070000 -0500" stop="20210807073000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Secretos de las Grandes Pintu</title>
+  </programme>
+  <programme start="20210807073000 -0500" stop="20210807083000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graham Norton Show</title>
+  </programme>
+  <programme start="20210807083000 -0500" stop="20210807084500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graciela Borges, Mi Vida En El</title>
+  </programme>
+  <programme start="20210807084500 -0500" stop="20210807094500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">El Cerebro Musical</title>
+  </programme>
+  <programme start="20210807094500 -0500" stop="20210807120000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Lo mejor está por venir</title>
+  </programme>
+  <programme start="20210807120000 -0500" stop="20210807130000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graham Norton Show</title>
+  </programme>
+  <programme start="20210807130000 -0500" stop="20210807140000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Victor Hugo</title>
+  </programme>
+  <programme start="20210807140000 -0500" stop="20210807150000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Victor Hugo</title>
+  </programme>
+  <programme start="20210807150000 -0500" stop="20210807160000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Victor Hugo</title>
+  </programme>
+  <programme start="20210807160000 -0500" stop="20210807170000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Victor Hugo</title>
+  </programme>
+  <programme start="20210807170000 -0500" stop="20210807191500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Lo mejor está por venir</title>
+  </programme>
+  <programme start="20210807191500 -0500" stop="20210807201500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Nina Simone, la leyenda</title>
+  </programme>
+  <programme start="20210807201500 -0500" stop="20210807211500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">John Malcovich El Crítico Mus</title>
+  </programme>
+  <programme start="20210807211500 -0500" stop="20210807230000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Vera</title>
+  </programme>
+  <programme start="20210807230000 -0500" stop="20210808011500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Enigma</title>
+  </programme>
+  <programme start="20210808011500 -0500" stop="20210808031000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">En tránsito</title>
+  </programme>
+  <programme start="20210808031000 -0500" stop="20210808041000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Nina Simone, la leyenda</title>
+  </programme>
+  <programme start="20210808041000 -0500" stop="20210808051500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">John Malcovich El Crítico Mus</title>
+  </programme>
+  <programme start="20210808051500 -0500" stop="20210808070000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Vera</title>
+  </programme>
+  <programme start="20210808070000 -0500" stop="20210808073000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Secretos de las Grandes Pintu</title>
+  </programme>
+  <programme start="20210808073000 -0500" stop="20210808083000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graham Norton Show</title>
+  </programme>
+  <programme start="20210808083000 -0500" stop="20210808090500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Film&amp;Arts desde el West End</title>
+  </programme>
+  <programme start="20210808090500 -0500" stop="20210808100500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Country Music</title>
+  </programme>
+  <programme start="20210808100500 -0500" stop="20210808120000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">En tránsito</title>
+  </programme>
+  <programme start="20210808120000 -0500" stop="20210808130000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graham Norton Show</title>
+  </programme>
+  <programme start="20210808130000 -0500" stop="20210808133000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Secretos de las Grandes Pintu</title>
+  </programme>
+  <programme start="20210808133000 -0500" stop="20210808143000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Nina Simone, la leyenda</title>
+  </programme>
+  <programme start="20210808143000 -0500" stop="20210808161500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Vera</title>
+  </programme>
+  <programme start="20210808161500 -0500" stop="20210808183000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Enigma</title>
+  </programme>
+  <programme start="20210808183000 -0500" stop="20210808210000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Rossini - La Cambiale di</title>
+  </programme>
+  <programme start="20210808210000 -0500" stop="20210808220000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Jodie Foster, Niña prodigio</title>
+  </programme>
+  <programme start="20210808220000 -0500" stop="20210808230000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Babylon Berlin</title>
+  </programme>
+  <programme start="20210808230000 -0500" stop="20210809011500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">La Música del Silencio</title>
+  </programme>
+  <programme start="20210809011500 -0500" stop="20210809033000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Los intocables</title>
+  </programme>
+  <programme start="20210809033000 -0500" stop="20210809040000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Secretos de las Grandes Pintu</title>
+  </programme>
+  <programme start="20210809040000 -0500" stop="20210809050000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Nina Simone, la leyenda</title>
+  </programme>
+  <programme start="20210809050000 -0500" stop="20210809060000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Jodie Foster, Niña prodigio</title>
+  </programme>
+  <programme start="20210809060000 -0500" stop="20210809070000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Babylon Berlin</title>
+  </programme>
+  <programme start="20210809070000 -0500" stop="20210809073000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Secretos de las Grandes Pintu</title>
+  </programme>
+  <programme start="20210809073000 -0500" stop="20210809083000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graham Norton Show</title>
+  </programme>
+  <programme start="20210809083000 -0500" stop="20210809093000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Jodie Foster, Niña prodigio</title>
+  </programme>
+  <programme start="20210809093000 -0500" stop="20210809094500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Norma en la Nube</title>
+  </programme>
+  <programme start="20210809094500 -0500" stop="20210809120000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Los intocables</title>
+  </programme>
+  <programme start="20210809120000 -0500" stop="20210809130000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graham Norton Show</title>
+  </programme>
+  <programme start="20210809130000 -0500" stop="20210809133500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Secretos de las Grandes Pintu</title>
+  </programme>
+  <programme start="20210809133500 -0500" stop="20210809144000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Estrellas del mañana</title>
+  </programme>
+  <programme start="20210809144000 -0500" stop="20210809154500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Nina Simone, la leyenda</title>
+  </programme>
+  <programme start="20210809154500 -0500" stop="20210809164500 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Jodie Foster, Niña prodigio</title>
+  </programme>
+  <programme start="20210809164500 -0500" stop="20210809190000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">La Música del Silencio</title>
+  </programme>
+  <programme start="20210809190000 -0500" stop="20210809200000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Graham Norton Show</title>
+  </programme>
+  <programme start="20210809200000 -0500" stop="20210809210000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">La Oreja De Van Gogh</title>
+  </programme>
+  <programme start="20210809210000 -0500" stop="20210809220000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Estrellas del mañana</title>
+  </programme>
+  <programme start="20210809220000 -0500" stop="20210809230000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Padre Brown</title>
+  </programme>
+  <programme start="20210809230000 -0500" stop="20210810005000 -0500" channel="Canal Film &amp; Arts">
+    <title lang="es">Hotel Sacher</title>
+  </programme>
+  <programme start="20210807010600 -0500" stop="20210807013300 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210807013300 -0500" stop="20210807015900 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210807015900 -0500" stop="20210807035000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210807035000 -0500" stop="20210807054200 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">¿Por Qué Él</title>
+  </programme>
+  <programme start="20210807054200 -0500" stop="20210807073400 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Línea Mortal: Al Límite</title>
+  </programme>
+  <programme start="20210807073400 -0500" stop="20210807080000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">How i met your mother</title>
+  </programme>
+  <programme start="20210807080000 -0500" stop="20210807102000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Marley y yo</title>
+  </programme>
+  <programme start="20210807102000 -0500" stop="20210807120900 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Mi Nueva Yo</title>
+  </programme>
+  <programme start="20210807120900 -0500" stop="20210807123600 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210807123600 -0500" stop="20210807130100 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210807130100 -0500" stop="20210807132400 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210807132400 -0500" stop="20210807134800 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210807134800 -0500" stop="20210807140900 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210807140900 -0500" stop="20210807160700 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">La joya de la familia</title>
+  </programme>
+  <programme start="20210807160700 -0500" stop="20210807183200 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210807183200 -0500" stop="20210807205000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Guardianes de la Bahía</title>
+  </programme>
+  <programme start="20210807205000 -0500" stop="20210807225500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">El Diablo Viste a la Moda</title>
+  </programme>
+  <programme start="20210807225500 -0500" stop="20210808013400 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Bohemian Rhapsody</title>
+  </programme>
+  <programme start="20210808013400 -0500" stop="20210808032400 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Cincuenta Sombras Liberadas</title>
+  </programme>
+  <programme start="20210808032400 -0500" stop="20210808051100 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">El Depredador</title>
+  </programme>
+  <programme start="20210808051100 -0500" stop="20210808065400 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">¿Y dónde están los Morgan</title>
+  </programme>
+  <programme start="20210808065400 -0500" stop="20210808073600 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Bones</title>
+  </programme>
+  <programme start="20210808073600 -0500" stop="20210808080000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">How i met your mother</title>
+  </programme>
+  <programme start="20210808080000 -0500" stop="20210808093000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Sabrina, la Bruja Adolescente</title>
+  </programme>
+  <programme start="20210808093000 -0500" stop="20210808112000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Mi abuela es un peligro 3</title>
+  </programme>
+  <programme start="20210808112000 -0500" stop="20210808133000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">El gran año</title>
+  </programme>
+  <programme start="20210808133000 -0500" stop="20210808140000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210808140000 -0500" stop="20210808143000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210808143000 -0500" stop="20210808150000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210808150000 -0500" stop="20210808153000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210808153000 -0500" stop="20210808172200 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Hada por accidente</title>
+  </programme>
+  <programme start="20210808172200 -0500" stop="20210808210000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Titanic</title>
+  </programme>
+  <programme start="20210808210000 -0500" stop="20210808213000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210808213000 -0500" stop="20210808220000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los simpson del domingo</title>
+  </programme>
+  <programme start="20210808220000 -0500" stop="20210808222500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210808222500 -0500" stop="20210808225500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210808225500 -0500" stop="20210809011500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Familia al Instante</title>
+  </programme>
+  <programme start="20210809225500 -0500" stop="20210810011500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Familia al Instante</title>
+  </programme>
+  <programme start="20210810011500 -0500" stop="20210810031500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Caso 39</title>
+  </programme>
+  <programme start="20210810031500 -0500" stop="20210810034500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810034500 -0500" stop="20210810042000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810042000 -0500" stop="20210810054000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Resident Evil: Capítulo Final</title>
+  </programme>
+  <programme start="20210810054000 -0500" stop="20210810073400 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210810073400 -0500" stop="20210810080000 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">How i met your mother</title>
+  </programme>
+  <programme start="20210810080000 -0500" stop="20210810084700 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Lo que el agua se llevó</title>
+  </programme>
+  <programme start="20210810084700 -0500" stop="20210810102900 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Marmaduke</title>
+  </programme>
+  <programme start="20210810102900 -0500" stop="20210810121500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Homegrown Christmas</title>
+  </programme>
+  <programme start="20210810121500 -0500" stop="20210810124100 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810124100 -0500" stop="20210810130500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810130500 -0500" stop="20210810132600 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810132600 -0500" stop="20210810135100 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">How i met your mother</title>
+  </programme>
+  <programme start="20210810135100 -0500" stop="20210810141600 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">How i met your mother</title>
+  </programme>
+  <programme start="20210810141600 -0500" stop="20210810163200 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Shakespeare apasionado</title>
+  </programme>
+  <programme start="20210810163200 -0500" stop="20210810165800 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810165800 -0500" stop="20210810174400 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los simpson del domingo</title>
+  </programme>
+  <programme start="20210810174400 -0500" stop="20210810183600 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Bones</title>
+  </programme>
+  <programme start="20210810183600 -0500" stop="20210810204700 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Un Amor Inquebrantable</title>
+  </programme>
+  <programme start="20210810204700 -0500" stop="20210810211300 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810211300 -0500" stop="20210810213800 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810213800 -0500" stop="20210810220300 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810220300 -0500" stop="20210810222900 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810222900 -0500" stop="20210810225500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210810225500 -0500" stop="20210811012500 -0500" channel="Canal Star Channel Mexico">
+    <title lang="es">Logan</title>
+  </programme>
+  <programme start="20210807002200 -0500" stop="20210807014500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Qué esperar cuando estas</title>
+  </programme>
+  <programme start="20210807014500 -0500" stop="20210807030700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Los Ángeles de Charlie</title>
+  </programme>
+  <programme start="20210807030700 -0500" stop="20210807040000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">New Amsterdam</title>
+  </programme>
+  <programme start="20210807040000 -0500" stop="20210807045200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210807045200 -0500" stop="20210807053700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807053700 -0500" stop="20210807063000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Private Eyes</title>
+  </programme>
+  <programme start="20210807063000 -0500" stop="20210807080000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">The Romeo Section</title>
+  </programme>
+  <programme start="20210807080000 -0500" stop="20210807081500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">New Amsterdam</title>
+  </programme>
+  <programme start="20210807081500 -0500" stop="20210807090500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">New Amsterdam</title>
+  </programme>
+  <programme start="20210807090500 -0500" stop="20210807095200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">New Amsterdam</title>
+  </programme>
+  <programme start="20210807095200 -0500" stop="20210807113000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">New Amsterdam</title>
+  </programme>
+  <programme start="20210807113000 -0500" stop="20210807135200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">El descanso</title>
+  </programme>
+  <programme start="20210807135200 -0500" stop="20210807161500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210807161500 -0500" stop="20210807170700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807170700 -0500" stop="20210807174500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807174500 -0500" stop="20210807183000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807183000 -0500" stop="20210807191500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807191500 -0500" stop="20210807200000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807200000 -0500" stop="20210807204500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807204500 -0500" stop="20210807215200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807215200 -0500" stop="20210807230000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210807230000 -0500" stop="20210808010700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">El Exótico Hotel Marigold 2</title>
+  </programme>
+  <programme start="20210808010700 -0500" stop="20210808031500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">El Precio del Mañana</title>
+  </programme>
+  <programme start="20210808031500 -0500" stop="20210808044500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">El Código Secreto</title>
+  </programme>
+  <programme start="20210808044500 -0500" stop="20210808061500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">La nueva vida de Kimberly</title>
+  </programme>
+  <programme start="20210808061500 -0500" stop="20210808065200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210808065200 -0500" stop="20210808080000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210808080000 -0500" stop="20210808082200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210808082200 -0500" stop="20210808090000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210808090000 -0500" stop="20210808093700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Wedding march 3</title>
+  </programme>
+  <programme start="20210808093700 -0500" stop="20210808115200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">The 10 Year Plan</title>
+  </programme>
+  <programme start="20210808115200 -0500" stop="20210808133700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Ella es así</title>
+  </programme>
+  <programme start="20210808133700 -0500" stop="20210808152200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">El Código Secreto</title>
+  </programme>
+  <programme start="20210808152200 -0500" stop="20210808160700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210808160700 -0500" stop="20210808171500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210808171500 -0500" stop="20210808183000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210808183000 -0500" stop="20210808191500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210808191500 -0500" stop="20210808200700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210808200700 -0500" stop="20210808205200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210808205200 -0500" stop="20210808214500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210808214500 -0500" stop="20210808230000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210808230000 -0500" stop="20210809004500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Yo les doy un año</title>
+  </programme>
+  <programme start="20210809004500 -0500" stop="20210809022200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Call Me Crazy A Five Film</title>
+  </programme>
+  <programme start="20210809022200 -0500" stop="20210809040000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Wedding march 3</title>
+  </programme>
+  <programme start="20210809040000 -0500" stop="20210809054500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Love on Safari</title>
+  </programme>
+  <programme start="20210809054500 -0500" stop="20210809060700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210809060700 -0500" stop="20210809070000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210809070000 -0500" stop="20210809080000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210809080000 -0500" stop="20210809084500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210809084500 -0500" stop="20210809091500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210809091500 -0500" stop="20210809095200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210809095200 -0500" stop="20210809103000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210809103000 -0500" stop="20210809111500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Kdabra</title>
+  </programme>
+  <programme start="20210809111500 -0500" stop="20210809125200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">The Romeo Section</title>
+  </programme>
+  <programme start="20210809125200 -0500" stop="20210809143000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Wedding march 3</title>
+  </programme>
+  <programme start="20210809143000 -0500" stop="20210809162200 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Asuntos del corazón</title>
+  </programme>
+  <programme start="20210809162200 -0500" stop="20210809171500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210809171500 -0500" stop="20210809181500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Private Eyes</title>
+  </programme>
+  <programme start="20210809181500 -0500" stop="20210809183000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">New Amsterdam</title>
+  </programme>
+  <programme start="20210809183000 -0500" stop="20210809200700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210809200700 -0500" stop="20210809211500 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20210809211500 -0500" stop="20210809220000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">New Amsterdam</title>
+  </programme>
+  <programme start="20210809220000 -0500" stop="20210809230000 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20210809230000 -0500" stop="20210810013700 -0500" channel="Canal Star Life Mexico">
+    <title lang="es">Bienvenido a los 40</title>
+  </programme>
+  <programme start="20210807005400 -0500" stop="20210807012000 -0500" channel="Canal Star Action Este">
+    <title lang="es">Countdown UFC 265</title>
+  </programme>
+  <programme start="20210807012000 -0500" stop="20210807025300 -0500" channel="Canal Star Action Este">
+    <title lang="es">Amenaza en lo Profundo</title>
+  </programme>
+  <programme start="20210807025300 -0500" stop="20210807042300 -0500" channel="Canal Star Action Este">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20210807042300 -0500" stop="20210807055900 -0500" channel="Canal Star Action Este">
+    <title lang="es">Un crimen inesperado</title>
+  </programme>
+  <programme start="20210807055900 -0500" stop="20210807062400 -0500" channel="Canal Star Action Este">
+    <title lang="es">Countdown UFC 265</title>
+  </programme>
+  <programme start="20210807062400 -0500" stop="20210807075800 -0500" channel="Canal Star Action Este">
+    <title lang="es">Madre oscura</title>
+  </programme>
+  <programme start="20210807075800 -0500" stop="20210807094700 -0500" channel="Canal Star Action Este">
+    <title lang="es">Infidel</title>
+  </programme>
+  <programme start="20210807094700 -0500" stop="20210807113300 -0500" channel="Canal Star Action Este">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20210807113300 -0500" stop="20210807131600 -0500" channel="Canal Star Action Este">
+    <title lang="es">Non-Stop: Sin Escalas</title>
+  </programme>
+  <programme start="20210807131600 -0500" stop="20210807154500 -0500" channel="Canal Star Action Este">
+    <title lang="es">Transformers: El Último Caballero</title>
+  </programme>
+  <programme start="20210807154500 -0500" stop="20210807180000 -0500" channel="Canal Star Action Este">
+    <title lang="es">Logan</title>
+  </programme>
+  <programme start="20210807180000 -0500" stop="20210807220000 -0500" channel="Canal Star Action Este">
+    <title lang="es">UFC 265 Preliminares</title>
+  </programme>
+  <programme start="20210807220000 -0500" stop="20210808010000 -0500" channel="Canal Star Action Este">
+    <title lang="es">Countdown UFC 265</title>
+  </programme>
+  <programme start="20210808220000 -0500" stop="20210809010000 -0500" channel="Canal Star Action Este">
+    <title lang="es">Countdown UFC 265</title>
+  </programme>
+  <programme start="20210809010000 -0500" stop="20210809024500 -0500" channel="Canal Star Action Este">
+    <title lang="es">Deadpool</title>
+  </programme>
+  <programme start="20210809024500 -0500" stop="20210809041300 -0500" channel="Canal Star Action Este">
+    <title lang="es">Imágenes del más allá</title>
+  </programme>
+  <programme start="20210809041300 -0500" stop="20210809053300 -0500" channel="Canal Star Action Este">
+    <title lang="es">Bleed</title>
+  </programme>
+  <programme start="20210809053300 -0500" stop="20210809065700 -0500" channel="Canal Star Action Este">
+    <title lang="es">Un Hombre Común</title>
+  </programme>
+  <programme start="20210809065700 -0500" stop="20210809082600 -0500" channel="Canal Star Action Este">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20210809082600 -0500" stop="20210809100000 -0500" channel="Canal Star Action Este">
+    <title lang="es">Amenaza en lo Profundo</title>
+  </programme>
+  <programme start="20210809100000 -0500" stop="20210809120200 -0500" channel="Canal Star Action Este">
+    <title lang="es">La villana</title>
+  </programme>
+  <programme start="20210809120200 -0500" stop="20210809133100 -0500" channel="Canal Star Action Este">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20210809133100 -0500" stop="20210809151700 -0500" channel="Canal Star Action Este">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20210809151700 -0500" stop="20210809171400 -0500" channel="Canal Star Action Este">
+    <title lang="es">The Last Full Measure</title>
+  </programme>
+  <programme start="20210809171400 -0500" stop="20210809190400 -0500" channel="Canal Star Action Este">
+    <title lang="es">Proyecto Géminis</title>
+  </programme>
+  <programme start="20210809190400 -0500" stop="20210809210000 -0500" channel="Canal Star Action Este">
+    <title lang="es">Nosotros</title>
+  </programme>
+  <programme start="20210809210000 -0500" stop="20210809230500 -0500" channel="Canal Star Action Este">
+    <title lang="es">Kingsman: El Servicio Secreto</title>
+  </programme>
+  <programme start="20210809230500 -0500" stop="20210810012300 -0500" channel="Canal Star Action Este">
+    <title lang="es">Kingsman: El Círculo Dorado</title>
+  </programme>
+  <programme start="20210810012300 -0500" stop="20210810033700 -0500" channel="Canal Star Action Este">
+    <title lang="es">Logan</title>
+  </programme>
+  <programme start="20210810033700 -0500" stop="20210810054500 -0500" channel="Canal Star Action Este">
+    <title lang="es">El Hombre de la Mascara de Hie</title>
+  </programme>
+  <programme start="20210810054500 -0500" stop="20210810063500 -0500" channel="Canal Star Action Este">
+    <title lang="es">Countdown UFC 264</title>
+  </programme>
+  <programme start="20210810063500 -0500" stop="20210810082700 -0500" channel="Canal Star Action Este">
+    <title lang="es">Marcado por la muerte</title>
+  </programme>
+  <programme start="20210810082700 -0500" stop="20210810100600 -0500" channel="Canal Star Action Este">
+    <title lang="es">El Redentor</title>
+  </programme>
+  <programme start="20210810100600 -0500" stop="20210810122600 -0500" channel="Canal Star Action Este">
+    <title lang="es">Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20210810122600 -0500" stop="20210810141300 -0500" channel="Canal Star Action Este">
+    <title lang="es">12 Desafíos</title>
+  </programme>
+  <programme start="20210810141300 -0500" stop="20210810154700 -0500" channel="Canal Star Action Este">
+    <title lang="es">Madre oscura</title>
+  </programme>
+  <programme start="20210810154700 -0500" stop="20210810172300 -0500" channel="Canal Star Action Este">
+    <title lang="es">Impacto mortal</title>
+  </programme>
+  <programme start="20210810172300 -0500" stop="20210810193000 -0500" channel="Canal Star Action Este">
+    <title lang="es">Duro de Matar 4.0</title>
+  </programme>
+  <programme start="20210810193000 -0500" stop="20210810210000 -0500" channel="Canal Star Action Este">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20210810210000 -0500" stop="20210810232900 -0500" channel="Canal Star Action Este">
+    <title lang="es">Transformers: El Último Caballero</title>
+  </programme>
+  <programme start="20210810232900 -0500" stop="20210811013300 -0500" channel="Canal Star Action Este">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210807000400 -0500" stop="20210807013100 -0500" channel="Canal Star Cinema">
+    <title lang="es">Crossword Mysteries Abracadav</title>
+  </programme>
+  <programme start="20210807013100 -0500" stop="20210807030100 -0500" channel="Canal Star Cinema">
+    <title lang="es">Abducted</title>
+  </programme>
+  <programme start="20210807030100 -0500" stop="20210807044200 -0500" channel="Canal Star Cinema">
+    <title lang="es">Las edades de Lulú</title>
+  </programme>
+  <programme start="20210807044200 -0500" stop="20210807060700 -0500" channel="Canal Star Cinema">
+    <title lang="es">Ingenious</title>
+  </programme>
+  <programme start="20210807060700 -0500" stop="20210807062900 -0500" channel="Canal Star Cinema">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210807062900 -0500" stop="20210807075600 -0500" channel="Canal Star Cinema">
+    <title lang="es">JL Ranch 2</title>
+  </programme>
+  <programme start="20210807075600 -0500" stop="20210807093100 -0500" channel="Canal Star Cinema">
+    <title lang="es">Yo, Mi mujer y Mi mujer muerta</title>
+  </programme>
+  <programme start="20210807093100 -0500" stop="20210807110400 -0500" channel="Canal Star Cinema">
+    <title lang="es">La Desaparición de Eleanor Rig</title>
+  </programme>
+  <programme start="20210807110400 -0500" stop="20210807123600 -0500" channel="Canal Star Cinema">
+    <title lang="es">La carta</title>
+  </programme>
+  <programme start="20210807123600 -0500" stop="20210807141500 -0500" channel="Canal Star Cinema">
+    <title lang="es">Within These Walls</title>
+  </programme>
+  <programme start="20210807141500 -0500" stop="20210807154600 -0500" channel="Canal Star Cinema">
+    <title lang="es">Abzurdah</title>
+  </programme>
+  <programme start="20210807154600 -0500" stop="20210807172400 -0500" channel="Canal Star Cinema">
+    <title lang="es">El guardaespaldas de Lincoln</title>
+  </programme>
+  <programme start="20210807172400 -0500" stop="20210807191700 -0500" channel="Canal Star Cinema">
+    <title lang="es">La Odisea de los Giles</title>
+  </programme>
+  <programme start="20210807191700 -0500" stop="20210807210000 -0500" channel="Canal Star Cinema">
+    <title lang="es">Mi primera Boda</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807223800 -0500" channel="Canal Star Cinema">
+    <title lang="es">Cuando los Hijos Regresan</title>
+  </programme>
+  <programme start="20210807223800 -0500" stop="20210808001800 -0500" channel="Canal Star Cinema">
+    <title lang="es">El club de los idealistas</title>
+  </programme>
+  <programme start="20210808001800 -0500" stop="20210808022000 -0500" channel="Canal Star Cinema">
+    <title lang="es">La villana</title>
+  </programme>
+  <programme start="20210808022000 -0500" stop="20210808044900 -0500" channel="Canal Star Cinema">
+    <title lang="es">La sospecha</title>
+  </programme>
+  <programme start="20210808044900 -0500" stop="20210808062100 -0500" channel="Canal Star Cinema">
+    <title lang="es">Todas as Canções de Amor</title>
+  </programme>
+  <programme start="20210808062100 -0500" stop="20210808080600 -0500" channel="Canal Star Cinema">
+    <title lang="es">Nobody Walks</title>
+  </programme>
+  <programme start="20210808080600 -0500" stop="20210808093300 -0500" channel="Canal Star Cinema">
+    <title lang="es">Poisonous Protégé</title>
+  </programme>
+  <programme start="20210808093300 -0500" stop="20210808110300 -0500" channel="Canal Star Cinema">
+    <title lang="es">Abducted</title>
+  </programme>
+  <programme start="20210808110300 -0500" stop="20210808123400 -0500" channel="Canal Star Cinema">
+    <title lang="es">Sólo se vive una vez</title>
+  </programme>
+  <programme start="20210808123400 -0500" stop="20210808140700 -0500" channel="Canal Star Cinema">
+    <title lang="es">Un cuento chino</title>
+  </programme>
+  <programme start="20210808140700 -0500" stop="20210808155500 -0500" channel="Canal Star Cinema">
+    <title lang="es">High life</title>
+  </programme>
+  <programme start="20210808155500 -0500" stop="20210808175400 -0500" channel="Canal Star Cinema">
+    <title lang="es">Un pueblo y su rey</title>
+  </programme>
+  <programme start="20210808175400 -0500" stop="20210808193000 -0500" channel="Canal Star Cinema">
+    <title lang="es">La Rehabilitación</title>
+  </programme>
+  <programme start="20210808193000 -0500" stop="20210808210000 -0500" channel="Canal Star Cinema">
+    <title lang="es">El hombre duplicado</title>
+  </programme>
+  <programme start="20210808210000 -0500" stop="20210808224100 -0500" channel="Canal Star Cinema">
+    <title lang="es">Borg McEnroe. La película</title>
+  </programme>
+  <programme start="20210808224100 -0500" stop="20210809002700 -0500" channel="Canal Star Cinema">
+    <title lang="es">Viviendo con el enemigo</title>
+  </programme>
+  <programme start="20210809002700 -0500" stop="20210809021600 -0500" channel="Canal Star Cinema">
+    <title lang="es">Tolkien</title>
+  </programme>
+  <programme start="20210809021600 -0500" stop="20210809040500 -0500" channel="Canal Star Cinema">
+    <title lang="es">La Inquisición de Camilo Sanz</title>
+  </programme>
+  <programme start="20210809040500 -0500" stop="20210809052600 -0500" channel="Canal Star Cinema">
+    <title lang="es">Maravilla Un Luchador</title>
+  </programme>
+  <programme start="20210809052600 -0500" stop="20210809064200 -0500" channel="Canal Star Cinema">
+    <title lang="es">Sitiados México</title>
+  </programme>
+  <programme start="20210809064200 -0500" stop="20210809081400 -0500" channel="Canal Star Cinema">
+    <title lang="es">La carta</title>
+  </programme>
+  <programme start="20210809081400 -0500" stop="20210809094500 -0500" channel="Canal Star Cinema">
+    <title lang="es">El Último Traje</title>
+  </programme>
+  <programme start="20210809094500 -0500" stop="20210809111700 -0500" channel="Canal Star Cinema">
+    <title lang="es">Todas as Canções de Amor</title>
+  </programme>
+  <programme start="20210809111700 -0500" stop="20210809124300 -0500" channel="Canal Star Cinema">
+    <title lang="es">Amor de Película</title>
+  </programme>
+  <programme start="20210809124300 -0500" stop="20210809141600 -0500" channel="Canal Star Cinema">
+    <title lang="es">La Desaparición de Eleanor Rig</title>
+  </programme>
+  <programme start="20210809141600 -0500" stop="20210809161200 -0500" channel="Canal Star Cinema">
+    <title lang="es">Divaldo Franco</title>
+  </programme>
+  <programme start="20210809161200 -0500" stop="20210809174500 -0500" channel="Canal Star Cinema">
+    <title lang="es">Un cuento chino</title>
+  </programme>
+  <programme start="20210809174500 -0500" stop="20210809191600 -0500" channel="Canal Star Cinema">
+    <title lang="es">Abzurdah</title>
+  </programme>
+  <programme start="20210809191600 -0500" stop="20210809210000 -0500" channel="Canal Star Cinema">
+    <title lang="es">Soledad</title>
+  </programme>
+  <programme start="20210809210000 -0500" stop="20210809225900 -0500" channel="Canal Star Cinema">
+    <title lang="es">Un pueblo y su rey</title>
+  </programme>
+  <programme start="20210809225900 -0500" stop="20210810005200 -0500" channel="Canal Star Cinema">
+    <title lang="es">La Odisea de los Giles</title>
+  </programme>
+  <programme start="20210807010400 -0500" stop="20210807031200 -0500" channel="Canal Star Classics">
+    <title lang="es">El Pasajero</title>
+  </programme>
+  <programme start="20210807031200 -0500" stop="20210807052200 -0500" channel="Canal Star Classics">
+    <title lang="es">¡Que bello es vivir</title>
+  </programme>
+  <programme start="20210807052200 -0500" stop="20210807054500 -0500" channel="Canal Star Classics">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210807054500 -0500" stop="20210807075800 -0500" channel="Canal Star Classics">
+    <title lang="es">Un Cowboy de la Ciudad</title>
+  </programme>
+  <programme start="20210807075800 -0500" stop="20210807095800 -0500" channel="Canal Star Classics">
+    <title lang="es">El desconocido</title>
+  </programme>
+  <programme start="20210807095800 -0500" stop="20210807115800 -0500" channel="Canal Star Classics">
+    <title lang="es">El viento y el león</title>
+  </programme>
+  <programme start="20210807115800 -0500" stop="20210807140600 -0500" channel="Canal Star Classics">
+    <title lang="es">El Dorado</title>
+  </programme>
+  <programme start="20210807140600 -0500" stop="20210807160600 -0500" channel="Canal Star Classics">
+    <title lang="es">El clan siciliano</title>
+  </programme>
+  <programme start="20210807160600 -0500" stop="20210807175300 -0500" channel="Canal Star Classics">
+    <title lang="es">Doble impacto</title>
+  </programme>
+  <programme start="20210807175300 -0500" stop="20210807192400 -0500" channel="Canal Star Classics">
+    <title lang="es">El destructor mortal</title>
+  </programme>
+  <programme start="20210807192400 -0500" stop="20210807210000 -0500" channel="Canal Star Classics">
+    <title lang="es">El vengador anónimo</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807234600 -0500" channel="Canal Star Classics">
+    <title lang="es">Primera victoria</title>
+  </programme>
+  <programme start="20210807234600 -0500" stop="20210808013700 -0500" channel="Canal Star Classics">
+    <title lang="es">Desirée, la amante de Napoleón</title>
+  </programme>
+  <programme start="20210808234600 -0500" stop="20210809013700 -0500" channel="Canal Star Classics">
+    <title lang="es">Desirée, la amante de Napoleón</title>
+  </programme>
+  <programme start="20210809013700 -0500" stop="20210809030700 -0500" channel="Canal Star Classics">
+    <title lang="es">Estrella de fuego</title>
+  </programme>
+  <programme start="20210809030700 -0500" stop="20210809043700 -0500" channel="Canal Star Classics">
+    <title lang="es">No te fíes de tu marido</title>
+  </programme>
+  <programme start="20210809043700 -0500" stop="20210809060900 -0500" channel="Canal Star Classics">
+    <title lang="es">Almost a Bride</title>
+  </programme>
+  <programme start="20210809060900 -0500" stop="20210809074200 -0500" channel="Canal Star Classics">
+    <title lang="es">Cujo</title>
+  </programme>
+  <programme start="20210809074200 -0500" stop="20210809093000 -0500" channel="Canal Star Classics">
+    <title lang="es">Para atrapar al ladrón</title>
+  </programme>
+  <programme start="20210809093000 -0500" stop="20210809113000 -0500" channel="Canal Star Classics">
+    <title lang="es">El clan siciliano</title>
+  </programme>
+  <programme start="20210809113000 -0500" stop="20210809132300 -0500" channel="Canal Star Classics">
+    <title lang="es">Testigo en peligro</title>
+  </programme>
+  <programme start="20210809132300 -0500" stop="20210809145400 -0500" channel="Canal Star Classics">
+    <title lang="es">El destructor mortal</title>
+  </programme>
+  <programme start="20210809145400 -0500" stop="20210809170400 -0500" channel="Canal Star Classics">
+    <title lang="es">Duro de matar</title>
+  </programme>
+  <programme start="20210809170400 -0500" stop="20210809185100 -0500" channel="Canal Star Classics">
+    <title lang="es">Enemigo mío</title>
+  </programme>
+  <programme start="20210809185100 -0500" stop="20210809210000 -0500" channel="Canal Star Classics">
+    <title lang="es">Fuerza Delta</title>
+  </programme>
+  <programme start="20210809210000 -0500" stop="20210809223400 -0500" channel="Canal Star Classics">
+    <title lang="es">Los Justicieros del Oeste</title>
+  </programme>
+  <programme start="20210809223400 -0500" stop="20210810004900 -0500" channel="Canal Star Classics">
+    <title lang="es">El Tren</title>
+  </programme>
+  <programme start="20210810223400 -0500" stop="20210811004900 -0500" channel="Canal Star Classics">
+    <title lang="es">El Tren</title>
+  </programme>
+  <programme start="20210807002100 -0500" stop="20210807015800 -0500" channel="Canal Star Comedy">
+    <title lang="es">Mi abuela es un peligro</title>
+  </programme>
+  <programme start="20210807015800 -0500" stop="20210807034600 -0500" channel="Canal Star Comedy">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20210807034600 -0500" stop="20210807051700 -0500" channel="Canal Star Comedy">
+    <title lang="es">Bienvenido a la jungla</title>
+  </programme>
+  <programme start="20210807051700 -0500" stop="20210807070900 -0500" channel="Canal Star Comedy">
+    <title lang="es">Me casé con un boludo</title>
+  </programme>
+  <programme start="20210807070900 -0500" stop="20210807084100 -0500" channel="Canal Star Comedy">
+    <title lang="es">Pasión por el triunfo 3</title>
+  </programme>
+  <programme start="20210807084100 -0500" stop="20210807101100 -0500" channel="Canal Star Comedy">
+    <title lang="es">Sólo se vive una vez</title>
+  </programme>
+  <programme start="20210807101100 -0500" stop="20210807113300 -0500" channel="Canal Star Comedy">
+    <title lang="es">Una pareja infernal</title>
+  </programme>
+  <programme start="20210807113300 -0500" stop="20210807130400 -0500" channel="Canal Star Comedy">
+    <title lang="es">Imagínatelo</title>
+  </programme>
+  <programme start="20210807130400 -0500" stop="20210807144200 -0500" channel="Canal Star Comedy">
+    <title lang="es">Josie y las Melódicas</title>
+  </programme>
+  <programme start="20210807144200 -0500" stop="20210807162200 -0500" channel="Canal Star Comedy">
+    <title lang="es">El guardián del zoológico</title>
+  </programme>
+  <programme start="20210807162200 -0500" stop="20210807173900 -0500" channel="Canal Star Comedy">
+    <title lang="es">Un dios salvaje</title>
+  </programme>
+  <programme start="20210807173900 -0500" stop="20210807192500 -0500" channel="Canal Star Comedy">
+    <title lang="es">Pequeña? Otra vez</title>
+  </programme>
+  <programme start="20210807192500 -0500" stop="20210807210000 -0500" channel="Canal Star Comedy">
+    <title lang="es">Buenos Vecinos</title>
+  </programme>
+  <programme start="20210807210000 -0500" stop="20210807222800 -0500" channel="Canal Star Comedy">
+    <title lang="es">El Abuelo Sinvergüenza .5</title>
+  </programme>
+  <programme start="20210807222800 -0500" stop="20210808000600 -0500" channel="Canal Star Comedy">
+    <title lang="es">Un loco fin de semana</title>
+  </programme>
+  <programme start="20210808222800 -0500" stop="20210809000600 -0500" channel="Canal Star Comedy">
+    <title lang="es">Un loco fin de semana</title>
+  </programme>
+  <programme start="20210809000600 -0500" stop="20210809015400 -0500" channel="Canal Star Comedy">
+    <title lang="es">Comando especial</title>
+  </programme>
+  <programme start="20210809015400 -0500" stop="20210809033200 -0500" channel="Canal Star Comedy">
+    <title lang="es">Juegos Entre Amigos</title>
+  </programme>
+  <programme start="20210809033200 -0500" stop="20210809050000 -0500" channel="Canal Star Comedy">
+    <title lang="es">Se les subieron los humos 2</title>
+  </programme>
+  <programme start="20210809050000 -0500" stop="20210809063700 -0500" channel="Canal Star Comedy">
+    <title lang="es">Love in the Forecast</title>
+  </programme>
+  <programme start="20210809063700 -0500" stop="20210809070100 -0500" channel="Canal Star Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20210809070100 -0500" stop="20210809072800 -0500" channel="Canal Star Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20210809072800 -0500" stop="20210809091500 -0500" channel="Canal Star Comedy">
+    <title lang="es">El viaje</title>
+  </programme>
+  <programme start="20210809091500 -0500" stop="20210809104600 -0500" channel="Canal Star Comedy">
+    <title lang="es">Bienvenido a la jungla</title>
+  </programme>
+  <programme start="20210809104600 -0500" stop="20210809123000 -0500" channel="Canal Star Comedy">
+    <title lang="es">Salón de belleza</title>
+  </programme>
+  <programme start="20210809123000 -0500" stop="20210809140700 -0500" channel="Canal Star Comedy">
+    <title lang="es">Mi abuela es un peligro</title>
+  </programme>
+  <programme start="20210809140700 -0500" stop="20210809154800 -0500" channel="Canal Star Comedy">
+    <title lang="es">Cosa de hombres</title>
+  </programme>
+  <programme start="20210809154800 -0500" stop="20210809172600 -0500" channel="Canal Star Comedy">
+    <title lang="es">Juegos Entre Amigos</title>
+  </programme>
+  <programme start="20210809172600 -0500" stop="20210809190600 -0500" channel="Canal Star Comedy">
+    <title lang="es">Drillbit Taylor Guardaespalda</title>
+  </programme>
+  <programme start="20210809190600 -0500" stop="20210809210000 -0500" channel="Canal Star Comedy">
+    <title lang="es">Un amigo como tú</title>
+  </programme>
+  <programme start="20210809210000 -0500" stop="20210809224500 -0500" channel="Canal Star Comedy">
+    <title lang="es">Deadpool</title>
+  </programme>
+  <programme start="20210809224500 -0500" stop="20210810001700 -0500" channel="Canal Star Comedy">
+    <title lang="es">Pelotas en juego</title>
+  </programme>
+  <programme start="20210810001700 -0500" stop="20210810020100 -0500" channel="Canal Star Comedy">
+    <title lang="es">Fin de semana en familia</title>
+  </programme>
+  <programme start="20210810020100 -0500" stop="20210810033200 -0500" channel="Canal Star Comedy">
+    <title lang="es">Imagínatelo</title>
+  </programme>
+  <programme start="20210810033200 -0500" stop="20210810051900 -0500" channel="Canal Star Comedy">
+    <title lang="es">Igualita a mi</title>
+  </programme>
+  <programme start="20210810051900 -0500" stop="20210810063800 -0500" channel="Canal Star Comedy">
+    <title lang="es">Freeloaders</title>
+  </programme>
+  <programme start="20210810063800 -0500" stop="20210810070100 -0500" channel="Canal Star Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20210810070100 -0500" stop="20210810084400 -0500" channel="Canal Star Comedy">
+    <title lang="es">Mi primera Boda</title>
+  </programme>
+  <programme start="20210810084400 -0500" stop="20210810101500 -0500" channel="Canal Star Comedy">
+    <title lang="es">Love in the Forecast</title>
+  </programme>
+  <programme start="20210810101500 -0500" stop="20210810114300 -0500" channel="Canal Star Comedy">
+    <title lang="es">La vida inmoral de la pareja</title>
+  </programme>
+  <programme start="20210810114300 -0500" stop="20210810130500 -0500" channel="Canal Star Comedy">
+    <title lang="es">Una pareja infernal</title>
+  </programme>
+  <programme start="20210810130500 -0500" stop="20210810143500 -0500" channel="Canal Star Comedy">
+    <title lang="es">Cita Express</title>
+  </programme>
+  <programme start="20210810143500 -0500" stop="20210810160600 -0500" channel="Canal Star Comedy">
+    <title lang="es">El Retiro</title>
+  </programme>
+  <programme start="20210810160600 -0500" stop="20210810173400 -0500" channel="Canal Star Comedy">
+    <title lang="es">El Abuelo Sinvergüenza .5</title>
+  </programme>
+  <programme start="20210810173400 -0500" stop="20210810193000 -0500" channel="Canal Star Comedy">
+    <title lang="es">Virgen a los 40</title>
+  </programme>
+  <programme start="20210810193000 -0500" stop="20210810210000 -0500" channel="Canal Star Comedy">
+    <title lang="es">Larry the Cable Guy Health In</title>
+  </programme>
+  <programme start="20210810210000 -0500" stop="20210810224700 -0500" channel="Canal Star Comedy">
+    <title lang="es">Comando especial</title>
+  </programme>
+  <programme start="20210810224700 -0500" stop="20210811002100 -0500" channel="Canal Star Comedy">
+    <title lang="es">Buenos Vecinos</title>
+  </programme>
+</tv>
