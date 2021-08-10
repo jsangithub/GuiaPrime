@@ -9,7 +9,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal AMC (Mexico)">
-    <display-name lang="es">AMC *FHDHQ</display-name>
+    <display-name lang="es">AMC *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Antena 3">
@@ -3233,6 +3233,9 @@
   </programme>
   <programme start="20210811194000 -0500" stop="20210811200500 -0500" channel="Canal Comedy Central (Colombia)">
     <title lang="es">La familia P. Luche</title>
+  </programme>
+  <programme start="20210811200500 -0500" stop="20210811210000 -0500" channel="Canal Comedy Central (Colombia)">
+    <title lang="es">Mi corazón es tuyo</title>
   </programme>
   <programme start="20210811210000 -0500" stop="20210811213000 -0500" channel="Canal Comedy Central (Colombia)">
     <title lang="es">Yo soy Betty, la fea</title>
@@ -9987,7 +9990,7 @@
   <programme start="20210809163100 -0500" stop="20210809181900 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Cómo Cortar a tu Patán</title>
     <title lang="xx">Cómo Cortar a tu Patán</title>
-    <desc lang="es">Una exitosa terapeuta especializada ayudar mujeres con malas relaciones. Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan.(n)</desc>
+    <desc lang="es">Una exitosa terapeuta especializada ayudar mujeres con malas relaciones. Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan.</desc>
     <credits>
       <actor>Mariana Treviño</actor>
       <actor>Sebastián Zurita</actor>
@@ -10001,7 +10004,7 @@
   <programme start="20210809181900 -0500" stop="20210809201000 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Quiero Robarme a la Novia</title>
     <title lang="xx">Made of Honor</title>
-    <desc lang="es">Mientras Tom espera que su mejor amiga regrese de viaje para pedirle matrimonio se da cuenta que ella está comprometida, ahora deberá luchar para no perderla.(n)</desc>
+    <desc lang="es">Mientras Tom espera que su mejor amiga regrese de viaje para pedirle matrimonio se da cuenta que ella está comprometida, ahora deberá luchar para no perderla.</desc>
     <credits>
       <actor>Patrick Dempsey</actor>
       <actor>Michelle Monaghan</actor>
@@ -10042,7 +10045,7 @@
   <programme start="20210810073200 -0500" stop="20210810092500 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">No Manches Frida 2</title>
     <title lang="xx">No Manches Frida 2</title>
-    <desc lang="es">Tras perder a su prometida luego de una borrachera, Zequi trata de reconquistarla en la playa, pero no cuenta con que Lucy se topará con su viejo amor.(n)</desc>
+    <desc lang="es">Tras perder a su prometida luego de una borrachera, Zequi trata de reconquistarla en la playa, pero no cuenta con que Lucy se topará con su viejo amor.</desc>
     <credits>
       <actor>Omar Chaparro</actor>
       <actor>Martha Higareda</actor>
@@ -10074,7 +10077,7 @@
   <programme start="20210810143600 -0500" stop="20210810161900 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">El Tamaño Sí Importa</title>
     <title lang="xx">El Tamaño Sí Importa</title>
-    <desc lang="es">Viviana, es una chica fuera de los estandartes de belleza, que tratará de ganar a su antiguo jefe, un chavo que siempre está rodeado de mujeres guapas.(n)</desc>
+    <desc lang="es">Viviana, es una chica fuera de los estandartes de belleza, que tratará de ganar a su antiguo jefe, un chavo que siempre está rodeado de mujeres guapas.</desc>
     <credits>
       <actor>Vadhir Derbez</actor>
       <actor>Ximena Ayala</actor>
@@ -10091,7 +10094,7 @@
   </programme>
   <programme start="20210810161900 -0500" stop="20210810181600 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Cásese Quien Pueda</title>
-    <desc lang="es">A una semana de su boda, Ana Paula descubre que su prometido la engaña. Decepcionada, se emborracha y cuando despierta aparece en la selva vestida de novia.(n)</desc>
+    <desc lang="es">A una semana de su boda, Ana Paula descubre que su prometido la engaña. Decepcionada, se emborracha y cuando despierta aparece en la selva vestida de novia.</desc>
     <credits>
       <actor>Martha Higareda</actor>
       <actor>Luis Gerardo Méndez</actor>
@@ -10108,7 +10111,7 @@
   <programme start="20210810201200 -0500" stop="20210810220000 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Una Mujer sin Filtro</title>
     <title lang="xx">Una Mujer Sin Filtro</title>
-    <desc lang="es">Paz es una mujer que por amabilidad ha permitido que la traten como si no valiera nada, pero un día en su cabeza un fenómeno suprime su filtro social.(n)</desc>
+    <desc lang="es">Paz es una mujer que por amabilidad ha permitido que la traten como si no valiera nada, pero un día en su cabeza un fenómeno suprime su filtro social.</desc>
     <credits>
       <actor>Alejandro Calva</actor>
       <actor>Ariel Levy</actor>
@@ -10128,7 +10131,7 @@
   </programme>
   <programme start="20210810220000 -0500" stop="20210810235300 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">¿Cómo Matar a un Esposo Muerto?</title>
-    <desc lang="es">Una madre de familia, debe enfrentar a las adversidades luego de la separación de un hombre poderoso que decide arruinarle la vida, aún, después de muerto.(n)</desc>
+    <desc lang="es">Una madre de familia, debe enfrentar a las adversidades luego de la separación de un hombre poderoso que decide arruinarle la vida, aún, después de muerto.</desc>
     <credits>
       <actor>Mara Escalante</actor>
       <actor>Eduardo España</actor>
@@ -10146,7 +10149,7 @@
   <programme start="20210810235300 -0500" stop="20210811013900 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Loca por el Trabajo</title>
     <title lang="xx">Loca por el Trabajo</title>
-    <desc lang="es">Tras un mal día a causa de una confusión, una ejecutiva pierde todo lo que tiene, para ayudarla a salir de su crisis, su vecina la lleva a su sex-shop.(n)</desc>
+    <desc lang="es">Tras un mal día a causa de una confusión, una ejecutiva pierde todo lo que tiene, para ayudarla a salir de su crisis, su vecina la lleva a su sex-shop.</desc>
     <credits>
       <actor>Bárbara de Regil</actor>
       <actor>Adriana Barraza</actor>
@@ -10172,7 +10175,7 @@
   <programme start="20210811033500 -0500" stop="20210811052200 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Una Mujer sin Filtro</title>
     <title lang="xx">Una Mujer Sin Filtro</title>
-    <desc lang="es">Paz es una mujer que por amabilidad ha permitido que la traten como si no valiera nada, pero un día en su cabeza un fenómeno suprime su filtro social.(n)</desc>
+    <desc lang="es">Paz es una mujer que por amabilidad ha permitido que la traten como si no valiera nada, pero un día en su cabeza un fenómeno suprime su filtro social.</desc>
     <credits>
       <actor>Alejandro Calva</actor>
       <actor>Ariel Levy</actor>
@@ -10193,7 +10196,7 @@
   <programme start="20210811052200 -0500" stop="20210811071000 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Cómo Cortar a tu Patán</title>
     <title lang="xx">Cómo Cortar a tu Patán</title>
-    <desc lang="es">Una exitosa terapeuta especializada ayudar mujeres con malas relaciones. Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan.(n)</desc>
+    <desc lang="es">Una exitosa terapeuta especializada ayudar mujeres con malas relaciones. Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan.</desc>
     <credits>
       <actor>Mariana Treviño</actor>
       <actor>Sebastián Zurita</actor>
@@ -10213,7 +10216,7 @@
   <programme start="20210811104500 -0500" stop="20210811124100 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Si Decido Quedarme</title>
     <title lang="xx">If I Stay</title>
-    <desc lang="es">Una joven sufre un accidente automovilístico que la deja en estado de coma, ahora estando fuera de su cuerpo terrenal deberá decidir si regresa.(n)</desc>
+    <desc lang="es">Una joven sufre un accidente automovilístico que la deja en estado de coma, ahora estando fuera de su cuerpo terrenal deberá decidir si regresa.</desc>
     <credits>
       <actor>Chloë Grace Moretz</actor>
       <actor>Mireille Enos</actor>
@@ -10242,6 +10245,9 @@
   </programme>
   <programme start="20210811183000 -0500" stop="20210811201000 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Una casa patas arriba</title>
+  </programme>
+  <programme start="20210811201000 -0500" stop="20210811220000 -0500" channel="Canal Golden (Mexico)">
+    <title lang="es">Mira quien habla</title>
   </programme>
   <programme start="20210811220000 -0500" stop="20210811234800 -0500" channel="Canal Golden (Mexico)">
     <title lang="es">Héroe de Centro Comercial 2</title>
