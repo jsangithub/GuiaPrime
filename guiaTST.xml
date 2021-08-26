@@ -207,13 +207,9 @@
     <icon src="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_l.png" />
     <url>http://www.mi.tv</url>
   </channel>
-  <channel id="Canal History (México)">
+  <channel id="Canal HBO (México)">
     <display-name lang="es">HBO | SUBTITULADO *FHD</display-name>
     <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="INDIE IndiePlex">
-    <display-name lang="en">INDIEPLEX *FHD</display-name>
-    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="Canal I.Sat">
     <display-name lang="es">ISAT *FHD</display-name>
@@ -370,6 +366,10 @@
     <display-name lang="es">H2 *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="DTV:HGTV:229 HGTV">
+    <display-name lang="en">HGTV *FHD</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
   <channel id="CO - History">
     <display-name lang="es">HISTORY *HQ</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/co_history_l.png" />
@@ -383,6 +383,10 @@
     <display-name lang="es">HISTORY *FHD</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/mx_history_l.png" />
     <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="DTV:NBA:216 NBA TV">
+    <display-name lang="en">NBA TV</display-name>
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="PPV CINEMA 01">
     <display-name lang="en">PPV CINEMA 01</display-name>
@@ -404,6 +408,9 @@
   </channel>
   <channel id="CINEMAX WEST *FHD">
     <display-name lang="en">CINEMAX WEST *FHD</display-name>
+  </channel>
+  <channel id="INDIEPLEX *FHD">
+    <display-name lang="en">INDIEPLEX *FHD</display-name>
   </channel>
   <programme start="20210826054500 +0000" stop="20210826063500 +0000" channel="AR - A&amp;E Mundo">
     <title lang="es">Bull"},"season":{"number":4},"episodeNumber":15,"sportEvent":false}}</title>
@@ -6690,13 +6697,13 @@
   </programme>
   <programme start="20210826030000 -0400" stop="20210826050000 -0400" channel="Canal Antena 3">
     <title lang="es">Espejo público</title>
-    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.(c)</desc>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
     <date>1996</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
   </programme>
   <programme start="20210826050000 -0400" stop="20210826073000 -0400" channel="Canal Antena 3">
     <title lang="es">Espejo público</title>
-    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.(c)</desc>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
     <date>1996</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
   </programme>
@@ -6711,7 +6718,7 @@
   </programme>
   <programme start="20210826094500 -0400" stop="20210826132600 -0400" channel="Canal Antena 3">
     <title lang="es">Espejo público</title>
-    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.(c)</desc>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
     <date>1996</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
   </programme>
@@ -6735,7 +6742,7 @@
   </programme>
   <programme start="20210826183500 -0400" stop="20210826193900 -0400" channel="Canal Antena 3">
     <title lang="es">La ruleta de la suerte</title>
-    <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.(c)</desc>
+    <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.</desc>
     <credits>
       <producer>Martingala</producer>
     </credits>
@@ -6767,7 +6774,7 @@
   </programme>
   <programme start="20210827030000 -0400" stop="20210827070000 -0400" channel="Canal Antena 3">
     <title lang="es">Espejo público</title>
-    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.(c)</desc>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
     <date>1996</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
   </programme>
@@ -6782,7 +6789,7 @@
   </programme>
   <programme start="20210827094500 -0400" stop="20210827124500 -0400" channel="Canal Antena 3">
     <title lang="es">Espejo público</title>
-    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.(g)</desc>
+    <desc lang="es">Un magacín semanal que aborda temas actuales de sociedad, salud y nutrición con entrevistas y reportajes presentado por Susanna Griso.</desc>
     <date>1996</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/espejo_publico.jpg" />
   </programme>
@@ -6809,7 +6816,7 @@
   </programme>
   <programme start="20210827183000 -0400" stop="20210827193000 -0400" channel="Canal Antena 3">
     <title lang="es">La ruleta de la suerte</title>
-    <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.(g)</desc>
+    <desc lang="es">Tres concursantes deben de adivinar las letras que forman una palabra o frase con la ayuda de una ruleta que tiene 24 opciones diferentes.</desc>
     <credits>
       <producer>Martingala</producer>
     </credits>
@@ -13533,6 +13540,10 @@
     <title lang="es">Vecinos</title>
     <episode-num system="onscreen">S8</episode-num>
   </programme>
+  <programme start="20210827123000 -0400" stop="20210827133000 -0400" channel="Canal Distrito Comedia">
+    <title lang="es">40 y 20</title>
+    <episode-num system="onscreen">S5</episode-num>
+  </programme>
   <programme start="20210827160000 -0400" stop="20210827171500 -0400" channel="Canal Distrito Comedia">
     <title lang="es">Vecinos</title>
     <episode-num system="onscreen">S8</episode-num>
@@ -14079,6 +14090,9 @@
   </programme>
   <programme start="20210827123000 -0400" stop="20210827130000 -0400" channel="Canal DW (Latinoamérica)">
     <title lang="es">Enlaces: Ventana Abierta Al Mundo Digital</title>
+  </programme>
+  <programme start="20210827130000 -0400" stop="20210827131500 -0400" channel="Canal DW (Latinoamérica)">
+    <title lang="es">DW Noticias</title>
   </programme>
   <programme start="20210827131500 -0400" stop="20210827140000 -0400" channel="Canal DW (Latinoamérica)">
     <title lang="es">A fondo</title>
@@ -36026,439 +36040,383 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
       <value>Solo adultos</value>
     </rating>
   </programme>
-  <programme start="20210826003400 -0400" stop="20210826012600 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S7 E136</episode-num>
+  <programme start="20210826014000 -0400" stop="20210826021500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Hard</title>
   </programme>
-  <programme start="20210826012600 -0400" stop="20210826030600 -0400" channel="Canal History (México)">
-    <title lang="es">Grandes misterios</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
+  <programme start="20210826021500 -0400" stop="20210826035000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Liga de la Justicia Oscura: Guerra Apokolips</title>
   </programme>
-  <programme start="20210826030600 -0400" stop="20210826040000 -0400" channel="Canal History (México)">
-    <title lang="es">Inexplicable con William S</title>
-    <episode-num system="onscreen">E33</episode-num>
+  <programme start="20210826035000 -0400" stop="20210826052000 -0400" channel="Canal HBO (México)">
+    <title lang="es">La leyenda de lo clandestino</title>
   </programme>
-  <programme start="20210826040000 -0400" stop="20210826045400 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas Ancestrales LATAM</title>
-    <episode-num system="onscreen">E101</episode-num>
+  <programme start="20210826052000 -0400" stop="20210826070000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Tammy</title>
   </programme>
-  <programme start="20210826045400 -0400" stop="20210826052000 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S10 E214</episode-num>
-  </programme>
-  <programme start="20210826052000 -0400" stop="20210826070000 -0400" channel="Canal History (México)">
-    <title lang="es">Grandes misterios</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20210826070000 -0400" stop="20210826072600 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E509</episode-num>
+  <programme start="20210826070000 -0400" stop="20210826083500 -0400" channel="Canal HBO (México)">
+    <title lang="es">En el Tornado</title>
+    <title lang="xx">Into the Storm</title>
+    <desc lang="es">Los habitantes del pueblo de Silverston ven como su ciudad es destrozada por la llegada de unos Tornados devastadores.(n)</desc>
+    <credits>
+      <actor>Richard Armitage</actor>
+      <actor>Sarah Wayne Callies</actor>
+      <actor>Matt Walsh</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Arlen Escarpeta</actor>
+      <producer>Todd Garner</producer>
+      <composer>Brian Tyler</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/en_el_tornado.jpg" />
     <rating>
-      <value>TV-PG</value>
+      <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210826072600 -0400" stop="20210826075100 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E482</episode-num>
+  <programme start="20210826083500 -0400" stop="20210826102000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Furia de Titanes 2</title>
+  </programme>
+  <programme start="20210826102000 -0400" stop="20210826121500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20210826121500 -0400" stop="20210826144000 -0400" channel="Canal HBO (México)">
+    <title lang="es">El sorprendente hombre araña</title>
+  </programme>
+  <programme start="20210826144000 -0400" stop="20210826170000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Midway: Batalla en el Pacífico</title>
+    <title lang="xx">Midway</title>
+    <desc lang="es">Después de presenciar el devastador ataque sorpresa a Pearl Harbor, un piloto y su escuadrón planean un contrataque al imponente ejército japonés.(n)</desc>
+    <credits>
+      <actor>Ed Skrein</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Luke Evans</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Nick Jonas</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Woody Harrelson</actor>
+      <producer>Roland Emmerich</producer>
+      <producer>Mark Gordon</producer>
+      <composer>Harald Kloser</composer>
+      <composer>Thomas Wander</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/midway_batalla_en_el_pacifico.jpg" />
     <rating>
-      <value>TV-PG</value>
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20210826075100 -0400" stop="20210826084300 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas Ancestrales LATAM</title>
-    <episode-num system="onscreen">E101</episode-num>
+  <programme start="20210826170000 -0400" stop="20210826173500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Last Week Tonight With John Oliver</title>
   </programme>
-  <programme start="20210826084300 -0400" stop="20210826093500 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S7 E136</episode-num>
+  <programme start="20210826173500 -0400" stop="20210826191500 -0400" channel="Canal HBO (México)">
+    <title lang="es">La maldición renace</title>
   </programme>
-  <programme start="20210826093500 -0400" stop="20210826102700 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E136</episode-num>
-  </programme>
-  <programme start="20210826102700 -0400" stop="20210826111900 -0400" channel="Canal History (México)">
-    <title lang="es">Inexplicable con William S</title>
-    <episode-num system="onscreen">E33</episode-num>
-  </programme>
-  <programme start="20210826111900 -0400" stop="20210826114500 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E509</episode-num>
+  <programme start="20210826191500 -0400" stop="20210826211500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Let Him Go</title>
+    <title lang="xx">Let Him Go</title>
+    <desc lang="es">Un alguacil retirado y su esposa deciden abandonar su rancho de Montana para rescatar a su joven nieto de una familia peligrosa que vive en las Dakotas.(n)</desc>
+    <credits>
+      <actor>Diane Lane</actor>
+      <actor>Kevin Costner</actor>
+      <actor>Lesley Manville</actor>
+      <actor>Will Brittain</actor>
+      <actor>Jeffrey Donovan</actor>
+      <actor>Kayli Carter</actor>
+      <actor>Booboo Stewart</actor>
+      <actor>Ryan Bruce</actor>
+      <writer>"Let Him Go" de Larry Watson</writer>
+      <producer>Mitchell Kaplan</producer>
+      <producer>Paula Mazur</producer>
+      <composer>Michael Giacchino</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/dejalo_ir.jpg" />
     <rating>
-      <value>TV-PG</value>
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20210826114500 -0400" stop="20210826121100 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E482</episode-num>
+  <programme start="20210826211500 -0400" stop="20210826230000 -0400" channel="Canal HBO (México)">
+    <title lang="es">La Viuda</title>
+    <title lang="xx">Greta</title>
+    <desc lang="es">Cuando una dulce e ingenua joven encuentra un bolso en el metro decide devolverlo a su legitima propietaria sin saber que tiene un lado oculto.(n)</desc>
+    <credits>
+      <actor>Isabelle Huppert</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>Maika Monroe</actor>
+      <actor>Colm Feore</actor>
+      <actor>Stephen Rea</actor>
+      <producer>Lawrence Bender</producer>
+      <producer>Sidney Kimmel</producer>
+      <composer>Javier Navarrete</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_viuda.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Irlanda</country>
     <rating>
-      <value>TV-PG</value>
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20210826121100 -0400" stop="20210826130300 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E139</episode-num>
+  <programme start="20210826230000 -0400" stop="20210826233500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Hard</title>
   </programme>
-  <programme start="20210826130300 -0400" stop="20210826135500 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas Ancestrales LATAM</title>
-    <episode-num system="onscreen">E101</episode-num>
+  <programme start="20210826233500 -0400" stop="20210827001000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Catch and Kill The Podcast Tapes</title>
   </programme>
-  <programme start="20210826135500 -0400" stop="20210826144700 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S7 E136</episode-num>
+  <programme start="20210827233500 -0400" stop="20210828001000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Catch and Kill The Podcast Tapes</title>
   </programme>
-  <programme start="20210826144700 -0400" stop="20210826151300 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S8 E161</episode-num>
+  <programme start="20210828001000 -0400" stop="20210828020000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Irresistible</title>
   </programme>
-  <programme start="20210826151300 -0400" stop="20210826160500 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E136</episode-num>
+  <programme start="20210828020000 -0400" stop="20210828033000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Fin de Semana</title>
   </programme>
-  <programme start="20210826160500 -0400" stop="20210826174500 -0400" channel="Canal History (México)">
-    <title lang="es">Grandes misterios</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
+  <programme start="20210828033000 -0400" stop="20210828055500 -0400" channel="Canal HBO (México)">
+    <title lang="es">El arte de ser adulto</title>
   </programme>
-  <programme start="20210826174500 -0400" stop="20210826181100 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S8 E162</episode-num>
+  <programme start="20210828055500 -0400" stop="20210828070000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Mi Papa Escribio Una Porno</title>
   </programme>
-  <programme start="20210826181100 -0400" stop="20210826183700 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S8 E163</episode-num>
+  <programme start="20210828070000 -0400" stop="20210828080000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Hierro</title>
   </programme>
-  <programme start="20210826183700 -0400" stop="20210826190300 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E480</episode-num>
+  <programme start="20210828080000 -0400" stop="20210828101000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Jumanji El siguiente nivel</title>
+  </programme>
+  <programme start="20210828101000 -0400" stop="20210828120500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  </programme>
+  <programme start="20210828120500 -0400" stop="20210828135500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Gilberto Gil: un dios en su jardín</title>
+  </programme>
+  <programme start="20210828135500 -0400" stop="20210828161000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Epidemia</title>
+  </programme>
+  <programme start="20210828161000 -0400" stop="20210828171000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Hierro</title>
+  </programme>
+  <programme start="20210828171000 -0400" stop="20210828190500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Estafadoras de Wall Street</title>
+    <title lang="xx">Hustlers</title>
+    <desc lang="es">Un grupo de bailarinas exóticas desempleadas se unen para recuperar a sus antiguos clientes de Wall Street y así poder comenzar su propio negocio.(n)</desc>
+    <credits>
+      <actor>Constance Wu</actor>
+      <actor>Jennifer López</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Keke Palmer</actor>
+      <actor>Lili Reinhart</actor>
+      <actor>Lizzo</actor>
+      <actor>Cardi B</actor>
+      <producer>Jessica Elbaum</producer>
+      <producer>Will Ferrell</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/estafadoras_de_wall_street.jpg" />
     <rating>
-      <value>TV-PG</value>
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20210826190300 -0400" stop="20210826192900 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E508</episode-num>
+  <programme start="20210828190500 -0400" stop="20210828205000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Tammy</title>
+  </programme>
+  <programme start="20210828205000 -0400" stop="20210828230000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Jumanji El siguiente nivel</title>
+  </programme>
+  <programme start="20210828230000 -0400" stop="20210829000000 -0400" channel="Canal HBO (México)">
+    <title lang="es">We're Here</title>
+  </programme>
+  <programme start="20210829000000 -0400" stop="20210829015500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  </programme>
+  <programme start="20210829015500 -0400" stop="20210829023000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Hard</title>
+  </programme>
+  <programme start="20210829023000 -0400" stop="20210829042000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Historias de Miedo Para Contar en la Oscuridad</title>
+    <desc lang="es">Un grupo de jóvenes descubre el escalofriante tomo de Sarah y sus oscuros secretos de su vida, historias que tienen la forma de volverse muy reales.(n)</desc>
+    <credits>
+      <actor>Zoe Colletti</actor>
+      <actor>Michael Garza</actor>
+      <actor>Austin Abrams</actor>
+      <actor>Gabriel Rush</actor>
+      <actor>Austin Zajur</actor>
+      <actor>Natalie Ganzhorn</actor>
+      <actor>Dean Norris</actor>
+      <producer>Guillermo del Toro</producer>
+      <producer>Sean Daniel</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/scary_stories_to_tell_in_the_dark.jpg" />
     <rating>
-      <value>TV-PG</value>
+      <value>R</value>
     </rating>
   </programme>
-  <programme start="20210826192900 -0400" stop="20210826202100 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E141</episode-num>
+  <programme start="20210829042000 -0400" stop="20210829061500 -0400" channel="Canal HBO (México)">
+    <title lang="es">El color del crimen</title>
   </programme>
-  <programme start="20210826202100 -0400" stop="20210826211300 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E142</episode-num>
+  <programme start="20210829061500 -0400" stop="20210829070000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Diarios del COVID, NYC</title>
   </programme>
-  <programme start="20210826211300 -0400" stop="20210826220400 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S20 E529</episode-num>
+  <programme start="20210829070000 -0400" stop="20210829085000 -0400" channel="Canal HBO (México)">
+    <title lang="es">In The Same Breath: ¿qué es verdad y qué es mentira</title>
+  </programme>
+  <programme start="20210829085000 -0400" stop="20210829113000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <title lang="xx">Wonder Woman 1984</title>
+    <desc lang="es">Sinopsis no disponible.(n)</desc>
+    <credits>
+      <actor>Gal Gadot</actor>
+      <actor>Chris Pine</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Pedro Pascal</actor>
+      <actor>Robin Wright</actor>
+      <actor>Connie Nielsen</actor>
+      <producer>Charles Roven</producer>
+      <producer>Deborah Snyder</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mujer_maravilla_1984.jpg" />
     <rating>
-      <value>TV-PG</value>
+      <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210826220400 -0400" stop="20210826225500 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S22 E563</episode-num>
+  <programme start="20210829113000 -0400" stop="20210829120500 -0400" channel="Canal HBO (México)">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20210829120500 -0400" stop="20210829144000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Tenet</title>
+    <title lang="xx">Tenet</title>
+    <desc lang="es">Un hombre debe viajar a través de un mundo crepuscular de espionaje internacional en una misión que se desarrollará en algo más allá del tiempo real.(n)</desc>
+    <credits>
+      <actor>John David Washington</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Dimple Kapadia</actor>
+      <actor>Michael Caine</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Clémence Poésy</actor>
+      <producer>Emma Thomas</producer>
+      <producer>Christopher Nolan</producer>
+      <composer>Ludwig Göransson</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/tenet.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
     <rating>
-      <value>TV-PG</value>
+      <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210826225500 -0400" stop="20210826232100 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S13 E273</episode-num>
-  </programme>
-  <programme start="20210826232100 -0400" stop="20210826234700 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S13 E269</episode-num>
-  </programme>
-  <programme start="20210826234700 -0400" stop="20210827003900 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S8 E168</episode-num>
-  </programme>
-  <programme start="20210827234700 -0400" stop="20210828003900 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S8 E168</episode-num>
-  </programme>
-  <programme start="20210828003900 -0400" stop="20210828013200 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S7 E133</episode-num>
-  </programme>
-  <programme start="20210828013200 -0400" stop="20210828022400 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S22 E563</episode-num>
+  <programme start="20210829144000 -0400" stop="20210829181000 -0400" channel="Canal HBO (México)">
+    <title lang="es">El Señor de los Anillos: El Retorno del Rey</title>
+    <desc lang="es">Gandalf y Aragorn lideran el mundo de los hombres contra el ejército de Sauron para que Frodo y Sam puedan acercarse al Monte del Destino con el anillo.(n)</desc>
+    <credits>
+      <actor>Elijah Wood</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Liv Tyler</actor>
+      <actor>Viggo Mortensen</actor>
+      <actor>Sean Astin</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>John Rhys-Davies</actor>
+      <actor>Bernard Hill</actor>
+      <producer>Barrie M. Osborne</producer>
+      <producer>Fran Walsh</producer>
+      <composer>Howard Shore</composer>
+    </credits>
+    <date>2003</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_senor_de_los_anillos_el_retorno_del_rey.jpg" />
+    <country lang="es">Alemania</country>
+    <country lang="es">Nueva Zelanda</country>
+    <country lang="es">Estados Unidos</country>
     <rating>
-      <value>TV-PG</value>
+      <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210828022400 -0400" stop="20210828031500 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S20 E529</episode-num>
+  <programme start="20210829181000 -0400" stop="20210829202000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Guasón</title>
+    <title lang="xx">Joker</title>
+    <desc lang="es">Arthur Flec es un aspirante a cómico que lucha en la sociedad fracturada de Ciudad Gótica atrapado en una existencia cíclica entre la apatía y la crueldad.(n)</desc>
+    <credits>
+      <actor>Joaquin Phoenix</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Zazie Beetz</actor>
+      <actor>Frances Conroy</actor>
+      <actor>Marc Maron</actor>
+      <actor>Bill Camp</actor>
+      <actor>Glenn Fleshler</actor>
+      <actor>Shea Whigham</actor>
+      <producer>Todd Phillips</producer>
+      <producer>Bradley Cooper</producer>
+      <composer>Hildur Guðnadóttir</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/guason.jpg" />
     <rating>
-      <value>TV-PG</value>
+      <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210828031500 -0400" stop="20210828034000 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E480</episode-num>
+  <programme start="20210829202000 -0400" stop="20210829230000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Mujer Maravilla 1984</title>
+    <title lang="xx">Wonder Woman 1984</title>
+    <desc lang="es">Sinopsis no disponible.(n)</desc>
+    <credits>
+      <actor>Gal Gadot</actor>
+      <actor>Chris Pine</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Pedro Pascal</actor>
+      <actor>Robin Wright</actor>
+      <actor>Connie Nielsen</actor>
+      <producer>Charles Roven</producer>
+      <producer>Deborah Snyder</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mujer_maravilla_1984.jpg" />
     <rating>
-      <value>TV-PG</value>
+      <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20210828034000 -0400" stop="20210828040500 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E508</episode-num>
+  <programme start="20210829230000 -0400" stop="20210830005000 -0400" channel="Canal HBO (México)">
+    <title lang="es">Monster Hunter: La Cacería Comienza</title>
+    <title lang="xx">Monster Hunter</title>
+    <desc lang="es">La capitana Artemis y su unidad son transportados a un nuevo mundo lleno de monstruos enormes, ahora buscan la manera de sobrevivir a este entorno hostil.(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Tony Jaa</actor>
+      <actor>Tip "T. I." Harris</actor>
+      <actor>Meagan Good</actor>
+      <actor>Diego Boneta</actor>
+      <actor>Josh Helman</actor>
+      <actor>Jin Au-Yeung</actor>
+      <actor>Ron Perlman</actor>
+      <writer>"Monster Hunter" de Capcom</writer>
+      <producer>Jeremy Bolt</producer>
+      <producer>Paul W. S. Anderson</producer>
+      <composer>Paul Haslinger</composer>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/monster_hunter_la_caceria_comienza.jpg" />
+    <country lang="es">Canadá</country>
+    <country lang="es">Chile</country>
+    <country lang="es">Alemania</country>
+    <country lang="es">Japón</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
     <rating>
-      <value>TV-PG</value>
+      <value>PG-13</value>
     </rating>
-  </programme>
-  <programme start="20210828040500 -0400" stop="20210828045500 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E142</episode-num>
-  </programme>
-  <programme start="20210828045500 -0400" stop="20210828054500 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E141</episode-num>
-  </programme>
-  <programme start="20210828054500 -0400" stop="20210828061000 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S13 E273</episode-num>
-  </programme>
-  <programme start="20210828061000 -0400" stop="20210828063500 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S13 E269</episode-num>
-  </programme>
-  <programme start="20210828063500 -0400" stop="20210828070000 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S8 E163</episode-num>
-  </programme>
-  <programme start="20210828070000 -0400" stop="20210828072500 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E480</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20210828072500 -0400" stop="20210828075000 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E508</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20210828075000 -0400" stop="20210828084200 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S7 E133</episode-num>
-  </programme>
-  <programme start="20210828084200 -0400" stop="20210828093400 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E141</episode-num>
-  </programme>
-  <programme start="20210828093400 -0400" stop="20210828102400 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E142</episode-num>
-  </programme>
-  <programme start="20210828102400 -0400" stop="20210828111400 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S8 E168</episode-num>
-  </programme>
-  <programme start="20210828111400 -0400" stop="20210828114000 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S13 E273</episode-num>
-  </programme>
-  <programme start="20210828114000 -0400" stop="20210828120600 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S13 E269</episode-num>
-  </programme>
-  <programme start="20210828120600 -0400" stop="20210828125800 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E141</episode-num>
-  </programme>
-  <programme start="20210828125800 -0400" stop="20210828132300 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S8 E162</episode-num>
-  </programme>
-  <programme start="20210828132300 -0400" stop="20210828141300 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S22 E563</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20210828141300 -0400" stop="20210828150500 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S7 E133</episode-num>
-  </programme>
-  <programme start="20210828150500 -0400" stop="20210828155700 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E142</episode-num>
-  </programme>
-  <programme start="20210828155700 -0400" stop="20210828164900 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S20 E529</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20210828164900 -0400" stop="20210828174100 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S7 E133</episode-num>
-  </programme>
-  <programme start="20210828174100 -0400" stop="20210828180700 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S8 E164</episode-num>
-  </programme>
-  <programme start="20210828180700 -0400" stop="20210828183300 -0400" channel="Canal History (México)">
-    <title lang="es">¿Quién da má0</title>
-    <episode-num system="onscreen">S8 E165</episode-num>
-  </programme>
-  <programme start="20210828183300 -0400" stop="20210828185800 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E478</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20210828185800 -0400" stop="20210828192300 -0400" channel="Canal History (México)">
-    <title lang="es">El Precio de la Historia</title>
-    <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia.(n)</desc>
-    <date>2009</date>
-    <category lang="es">Reality Show</category>
-    <category lang="es">Serie</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg" />
-    <episode-num system="onscreen">S19 E506</episode-num>
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20210828192300 -0400" stop="20210828201500 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrale</title>
-    <episode-num system="onscreen">S11 E143</episode-num>
-  </programme>
-  <programme start="20210828201500 -0400" stop="20210828210700 -0400" channel="Canal History (México)">
-    <title lang="es">Alienígenas ancestrales</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20210828210700 -0400" stop="20210828220000 -0400" channel="Canal History (México)">
-    <title lang="es">Rutas mortales</title>
-    <episode-num system="onscreen">S11 E135</episode-num>
-  </programme>
-  <programme start="20210828220000 -0400" stop="20210828225000 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego LAT</title>
-    <episode-num system="onscreen">S3 E301</episode-num>
-  </programme>
-  <programme start="20210828225000 -0400" stop="20210828234000 -0400" channel="Canal History (México)">
-    <title lang="es">Desafío sobre fuego</title>
-    <episode-num system="onscreen">S8 E181</episode-num>
-  </programme>
-  <programme start="20210828234000 -0400" stop="20210829003200 -0400" channel="Canal History (México)">
-    <title lang="es">Competencia en el taller</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20210829234000 -0400" stop="20210830003200 -0400" channel="Canal History (México)">
-    <title lang="es">Competencia en el taller</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
   <programme start="20210826003000 -0400" stop="20210826013900 -0400" channel="Canal I.Sat">
     <title lang="es">El espanto</title>
@@ -37636,6 +37594,9 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   <programme start="20210828070000 -0400" stop="20210828110000 -0400" channel="Canal Multimedios Plus">
     <title lang="es">Telediario Matutino CDMX</title>
   </programme>
+  <programme start="20210828130000 -0400" stop="20210828150000 -0400" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario vespertino MTY</title>
+  </programme>
   <programme start="20210828233000 -0400" stop="20210829013000 -0400" channel="Canal Multimedios Plus">
     <title lang="es">Es Show, el musical</title>
   </programme>
@@ -38524,7 +38485,7 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   <programme start="20210827220000 -0400" stop="20210827230000 -0400" channel="Canal Paramount Channel (Argentina)">
     <title lang="es">Yellowstone (2018)</title>
     <title lang="xx">Yellowstone</title>
-    <desc lang="es">La familia Dutton controla el rancho contiguo más grande de los Estados Unidos donde deben lidiar con una constructora, una reserva indígena y el gobierno.(n)</desc>
+    <desc lang="es">La familia Dutton controla el rancho contiguo más grande de los Estados Unidos donde deben lidiar con una constructora, una reserva indígena y el gobierno.</desc>
     <credits>
       <actor>Kevin Costner</actor>
       <actor>Luke Grimes</actor>
@@ -38557,7 +38518,7 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   </programme>
   <programme start="20210828080000 -0400" stop="20210828094500 -0400" channel="Canal Paramount Channel (Argentina)">
     <title lang="es">Hércules (2014)</title>
-    <desc lang="es">Tras finalizar sus legendarias doce trabajos, Hércules, el semidiós griego, es contratado por el rey de Tracia para entrenar a sus mejores guerreros.(n)</desc>
+    <desc lang="es">Tras finalizar sus legendarias doce trabajos, Hércules, el semidiós griego, es contratado por el rey de Tracia para entrenar a sus mejores guerreros.</desc>
     <credits>
       <actor>Dwayne Johnson</actor>
       <actor>Ian McShane</actor>
@@ -38584,7 +38545,7 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   <programme start="20210828134500 -0400" stop="20210828154500 -0400" channel="Canal Paramount Channel (Argentina)">
     <title lang="es">Shrek Tercero</title>
     <title lang="xx">Shrek the Third</title>
-    <desc lang="es">Tras la muerte del suegro de Shrek, el Rey Harold, ahora el reino de Muy Muy Lejos llama al Ogro maloliente para que tome su trono.(n)</desc>
+    <desc lang="es">Tras la muerte del suegro de Shrek, el Rey Harold, ahora el reino de Muy Muy Lejos llama al Ogro maloliente para que tome su trono.</desc>
     <credits>
       <actor>Mike Myers</actor>
       <actor>Cameron Diaz</actor>
@@ -65612,6 +65573,9 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
   <programme start="20210827103000 -0400" stop="20210827105500 -0400" channel="Canal E! Entertainment Television (Mexico)">
     <title lang="es">Keeping up with Kardashians</title>
   </programme>
+  <programme start="20210827124500 -0400" stop="20210827134000 -0400" channel="Canal E! Entertainment Television (Mexico)">
+    <title lang="es">Botched</title>
+  </programme>
   <programme start="20210827180000 -0400" stop="20210827185500 -0400" channel="Canal E! Entertainment Television (Mexico)">
     <title lang="es">Bajo cubierta mediterráneo</title>
   </programme>
@@ -74752,6 +74716,21 @@ Leo rompe la promesa que le hizo a su novia de ser más responsable cuando lleva
     <category lang="en">Movies</category>
   </programme>
   <programme start="20210828000000 +0000" stop="20210828235900 +0000" channel="CINEMAX WEST *FHD">
+    <title lang="en">Movies 24Hrs</title>
+    <desc lang="en">Random Movies.</desc>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210826000000 +0000" stop="20210826235900 +0000" channel="INDIEPLEX *FHD">
+    <title lang="en">Movies 24Hrs</title>
+    <desc lang="en">Random Movies.</desc>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210827000000 +0000" stop="20210827235900 +0000" channel="INDIEPLEX *FHD">
+    <title lang="en">Movies 24Hrs</title>
+    <desc lang="en">Random Movies.</desc>
+    <category lang="en">Movies</category>
+  </programme>
+  <programme start="20210828000000 +0000" stop="20210828235900 +0000" channel="INDIEPLEX *FHD">
     <title lang="en">Movies 24Hrs</title>
     <desc lang="en">Random Movies.</desc>
     <category lang="en">Movies</category>
